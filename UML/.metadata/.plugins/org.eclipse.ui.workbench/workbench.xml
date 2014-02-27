@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="115" version="2.0">
+<workbench progressCount="119" version="2.0">
 <workbenchAdvisor/>
 <window height="768" maximized="true" width="1024" x="312" y="312">
 <fastViewData fastViewLocation="1024">
@@ -11,7 +11,7 @@
 </perspectiveBar>
 <coolbarLayout locked="0">
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="122" y="30"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="539" y="30"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.xtools.common.ui.reduction.modelingViewpointsActionSet" itemType="typeToolBarContribution" x="101" y="30"/>
 <coolItem id="com.ibm.xtools.modeler.ui.actions.ModelingActionSet" itemType="typeToolBarContribution" x="38" y="30"/>
@@ -24,10 +24,10 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1045" y="30"/>
+<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1024" y="22"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.support.feedback.errorreports.ui.crashReportToolbar" itemType="typeToolBarContribution" x="129" y="22"/>
-<coolItem id="com.ibm.cic.licensing.common.ui.controlContribution" itemType="typeToolBarContribution" x="141" y="30"/>
+<coolItem id="com.ibm.cic.licensing.common.ui.controlContribution" itemType="typeToolBarContribution" x="141" y="22"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
 <page focus="true" label="Workspace - Modeling">
@@ -87,7 +87,6 @@
 <alwaysOnActionSet id="org.eclipse.gmf.runtime.diagram.ui.DiagramActionSet"/>
 <alwaysOnActionSet id="rmpSearchActionSet"/>
 <alwaysOnActionSet id="com.ibm.xtools.transform.ui.actionSet"/>
-<alwaysOnActionSet id="com.ibm.cic.licensing.common.ui.toolbar.actionSet"/>
 <show_view_action id="com.ibm.ccl.erf.ui.views.reportexplorer"/>
 <show_view_action id="com.ibm.xtools.modeler.ui.internal.ui.views.InheritanceExplorer"/>
 <show_view_action id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView"/>
@@ -143,7 +142,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.26" ratioLeft="260" ratioRight="740" relationship="2" relative="projectExplorerArea"/>
-<info folder="true" part="underEditorArea" ratio="0.6594427" ratioLeft="426" ratioRight="220" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="underEditorArea" ratio="0.88794565" ratioLeft="523" ratioRight="66" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="com.ibm.etools.common.migration.view.MigrationValidationResultsView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="com.ibm.etools.common.migration.view.MigrationValidationResultsView" label="Migration Results"/>

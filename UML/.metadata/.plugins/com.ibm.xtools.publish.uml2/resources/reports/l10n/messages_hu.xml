@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!--                                                                        -->
+<!-- Licensed Materials - Property of IBM                                   -->
+<!-- Copyright IBM Corporation 2006, 2008. All Rights Reserved.             -->
+<!--                                                                        -->
+<!-- Note to U.S. Government Users Restricted Rights:  Use, duplication or  -->
+<!-- disclosure restricted by GSA ADP Schedule Contract with IBM Corp.      -->
+<!--  																		-->
+<strings>
+    <!-- Metrics Report Translatable strings -->
+	<string key="MetricsReport.Title">Minta UML mérés jelentés a(z) #topLevelName elemhez</string>
+	<string key="MetricsReport.Introduction">#reportType &apos;#topLevelName&apos; tartalmaz #classCount osztályokat és#packageCount csomagokat.</string>
+	<string key="MetricsReport.AverageClassesPerPackage">Osztályok átlagos száma csomagonként: #average.</string>
+	<string key="MetricsReport.PackagesMostClasses">Legtöbb osztályt tartalmazó csomagok (#maxClassCount):</string>
+	<string key="MetricsReport.ClassesMostOperations">Legtöbb műveletet tartalmazó osztályok (#maxOperationsCount):</string>
+	<string key="MetricsReport.ClassesMostAttributes">Legtöbb attribútumot tartalmazó osztályok (#maxAttributesCount):</string>
+	<string key="MetricsReport.ErrorUnableToMeasure">nem mérhető (nincsenek csomagok a modellben)</string>
+	
+	<string key="MetricsReport.ModelLabel">A modell</string>>
+	<string key="MetricsReport.PackageLabel">A csomag</string>>
+	
+    <!-- Model Diagram Report Translatable strings -->
+	<string key="ModelDiagramReport.Title">Modell diagram jelentés a(z) #topLevelName elemhez</string>
+	<string key="ModelDiagramReport.Diagram"> Diagram </string>
+</strings>

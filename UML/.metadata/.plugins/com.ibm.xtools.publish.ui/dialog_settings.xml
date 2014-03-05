@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="WebPublishDialog.Settings">
+		<item value="Published Items" key="DocTitle"/>
+		<item value="0" key="BannerPathIndex"/>
+		<item value="false" key="CleanDestDir"/>
+		<item value="false" key="CopyFiles"/>
+		<item value="false" key="SortAlphabetically"/>
+		<item value="5" key="DiagramFileFormat"/>
+		<item value="false" key="OverviewEnabled"/>
+		<item value="false" key="PreviewOutput"/>
+		<item value="true" key="GenerateDiagramsOption"/>
+		<item value="" key="Author"/>
+		<item value="2" key="LevelOfDetail"/>
+		<item value="true" key="DisplayIconsOption"/>
+		<item value="0" key="LinkPathIndex"/>
+		<item value="0" key="PreviousSelectedPath"/>
+		<item value="false" key="ExternalLinkOption"/>
+		<item value="" key="EXTERNAL_LINK_NAME"/>
+		<item value="" key="Company"/>
+		<item value="false" key="CreateLinks"/>
+		<item value="false" key="DisplayEmptyProperties"/>
+		<item value="false" key="GenDate"/>
+		<item value="false" key="NavStyleIsJavadoc"/>
+		<list key="BannerPathChoices">
+			<item value="C:\Program Files (x86)\IBM\SDPShared\plugins\com.ibm.ccl.erf.core_1.60.0.v20100715_2051/resources/overview_banner.jpg"/>
+		</list>
+		<list key="TypesOptionsChecked">
+			<item value="Properties"/>
+			<item value="Diagrams"/>
+			<item value="Literals"/>
+			<item value="Slots and Values"/>
+			<item value="Attributes"/>
+			<item value="Roles"/>
+			<item value="Operations"/>
+			<item value="Nested Classifiers"/>
+			<item value="Nested Activities"/>
+			<item value="Packaged Elements"/>
+			<item value="Packaged Elements"/>
+			<item value="Nested Nodes"/>
+			<item value="URLs"/>
+			<item value="Activity Nodes"/>
+			<item value="Activity Edges"/>
+			<item value="Interactions"/>
+			<item value="Lifelines"/>
+			<item value="Combined Fragments"/>
+			<item value="Execution Occurences"/>
+			<item value="Interaction Occurences"/>
+			<item value="Stops"/>
+			<item value="Template Signatures"/>
+			<item value="Template Bindings"/>
+			<item value="Template Parameter Substitutions"/>
+			<item value="States"/>
+			<item value="Pseudostates"/>
+			<item value="Comments"/>
+			<item value="Constraints"/>
+			<item value="Specifications"/>
+		</list>
+		<list key="LinkPathChoices">
+			<item value="C:\Users\Karolis\AppData\Local\Temp\"/>
+		</list>
+		<list key="PreviousPaths">
+			<item value="C:\Users\Karolis\AppData\Local\Temp\"/>
+		</list>
+		<list key="TypesOptionsAll">
+			<item value="Properties"/>
+			<item value="Diagrams"/>
+			<item value="Literals"/>
+			<item value="Slots and Values"/>
+			<item value="Attributes"/>
+			<item value="Roles"/>
+			<item value="Operations"/>
+			<item value="Nested Classifiers"/>
+			<item value="Nested Activities"/>
+			<item value="Packaged Elements"/>
+			<item value="Packaged Elements"/>
+			<item value="Nested Nodes"/>
+			<item value="URLs"/>
+			<item value="Activity Nodes"/>
+			<item value="Activity Edges"/>
+			<item value="Interactions"/>
+			<item value="Lifelines"/>
+			<item value="Combined Fragments"/>
+			<item value="Execution Occurences"/>
+			<item value="Interaction Occurences"/>
+			<item value="Stops"/>
+			<item value="Template Signatures"/>
+			<item value="Template Bindings"/>
+			<item value="Template Parameter Substitutions"/>
+			<item value="States"/>
+			<item value="Pseudostates"/>
+			<item value="Comments"/>
+			<item value="Constraints"/>
+			<item value="Specifications"/>
+		</list>
+	</section>
+</section>

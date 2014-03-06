@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="122" version="2.0">
+<workbench progressCount="120" version="2.0">
 <workbenchAdvisor/>
 <window height="728" maximized="true" width="1280" x="38" y="-15">
 <fastViewData fastViewLocation="1024">
@@ -37,17 +37,6 @@
 <folder appearance="1" expanded="2">
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
-<part id="1"/>
-<part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
-<part id="9"/>
-<part id="10"/>
-<part id="11"/>
 </presentation>
 </folder>
 </info>
@@ -167,9 +156,9 @@
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.26735833" ratioLeft="335" ratioRight="918" relationship="2" relative="projectExplorerArea"/>
-<info folder="true" part="underEditorArea" ratio="0.7911715" ratioLeft="466" ratioRight="123" relationship="4" relative="org.eclipse.ui.editorss">
-<folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
+<info part="org.eclipse.ui.editorss" ratio="0.13284133" ratioLeft="180" ratioRight="1175" relationship="2" relative="projectExplorerArea"/>
+<info folder="true" part="underEditorArea" ratio="0.79456705" ratioLeft="468" ratioRight="121" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="com.ibm.etools.common.migration.view.MigrationValidationResultsView" label="Migration Results"/>
 <page content="org.eclipse.ui.views.ProblemView" label="Problems"/>

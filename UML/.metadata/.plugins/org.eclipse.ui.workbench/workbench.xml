@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="115" version="2.0">
+<workbench progressCount="122" version="2.0">
 <workbenchAdvisor/>
-<window height="1390" width="1280" x="1280" y="0">
+<window height="728" maximized="true" width="1280" x="38" y="-15">
 <fastViewData fastViewLocation="1024">
 <orientation position="512" view="com.ibm.xtools.mde.guidance"/>
 <orientation position="512" view="com.ibm.ccl.erf.ui.views.reportexplorer"/>
@@ -11,7 +11,7 @@
 </perspectiveBar>
 <coolbarLayout locked="0">
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="437" y="30"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="539" y="30"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.xtools.common.ui.reduction.modelingViewpointsActionSet" itemType="typeToolBarContribution" x="101" y="30"/>
 <coolItem id="com.ibm.xtools.modeler.ui.actions.ModelingActionSet" itemType="typeToolBarContribution" x="38" y="30"/>
@@ -24,7 +24,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1045" y="22"/>
+<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1024" y="22"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.support.feedback.errorreports.ui.crashReportToolbar" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="com.ibm.cic.licensing.common.ui.controlContribution" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -48,23 +48,6 @@
 <part id="9"/>
 <part id="10"/>
 <part id="11"/>
-<part id="12"/>
-<part id="13"/>
-<part id="14"/>
-<part id="15"/>
-<part id="16"/>
-<part id="17"/>
-<part id="18"/>
-<part id="19"/>
-<part id="20"/>
-<part id="21"/>
-<part id="22"/>
-<part id="23"/>
-<part id="24"/>
-<part id="25"/>
-<part id="26"/>
-<part id="27"/>
-<part id="28"/>
 </presentation>
 </folder>
 </info>
@@ -185,7 +168,7 @@
 </folder>
 </info>
 <info part="org.eclipse.ui.editorss" ratio="0.26735833" ratioLeft="335" ratioRight="918" relationship="2" relative="projectExplorerArea"/>
-<info folder="true" part="underEditorArea" ratio="0.81781375" ratioLeft="1010" ratioRight="225" relationship="4" relative="org.eclipse.ui.editorss">
+<info folder="true" part="underEditorArea" ratio="0.7911715" ratioLeft="466" ratioRight="123" relationship="4" relative="org.eclipse.ui.editorss">
 <folder activePageID="org.eclipse.ui.console.ConsoleView" appearance="2" expanded="2">
 <page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
 <page content="com.ibm.etools.common.migration.view.MigrationValidationResultsView" label="Migration Results"/>

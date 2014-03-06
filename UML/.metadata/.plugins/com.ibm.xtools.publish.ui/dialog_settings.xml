@@ -14,14 +14,14 @@
 		<item value="2" key="LevelOfDetail"/>
 		<item value="true" key="DisplayIconsOption"/>
 		<item value="0" key="LinkPathIndex"/>
-		<item value="0" key="PreviousSelectedPath"/>
+		<item value="1" key="PreviousSelectedPath"/>
 		<item value="false" key="ExternalLinkOption"/>
 		<item value="" key="EXTERNAL_LINK_NAME"/>
-		<item value="" key="Company"/>
 		<item value="false" key="CreateLinks"/>
-		<item value="false" key="DisplayEmptyProperties"/>
-		<item value="false" key="GenDate"/>
+		<item value="" key="Company"/>
 		<item value="false" key="NavStyleIsJavadoc"/>
+		<item value="false" key="GenDate"/>
+		<item value="false" key="DisplayEmptyProperties"/>
 		<list key="BannerPathChoices">
 			<item value="C:\Program Files (x86)\IBM\SDPShared\plugins\com.ibm.ccl.erf.core_1.60.0.v20100715_2051/resources/overview_banner.jpg"/>
 		</list>
@@ -35,7 +35,6 @@
 			<item value="Operations"/>
 			<item value="Nested Classifiers"/>
 			<item value="Nested Activities"/>
-			<item value="Packaged Elements"/>
 			<item value="Packaged Elements"/>
 			<item value="Nested Nodes"/>
 			<item value="URLs"/>
@@ -61,6 +60,7 @@
 		</list>
 		<list key="PreviousPaths">
 			<item value="C:\Users\Karolis\AppData\Local\Temp\"/>
+			<item value="C:\Users\djrys_000\Documents"/>
 		</list>
 		<list key="TypesOptionsAll">
 			<item value="Properties"/>
@@ -72,7 +72,6 @@
 			<item value="Operations"/>
 			<item value="Nested Classifiers"/>
 			<item value="Nested Activities"/>
-			<item value="Packaged Elements"/>
 			<item value="Packaged Elements"/>
 			<item value="Nested Nodes"/>
 			<item value="URLs"/>

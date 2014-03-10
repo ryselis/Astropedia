@@ -54,10 +54,6 @@
 	            <xsl:with-param name="mode" select="$mode"/>
 	        </xsl:call-template>
 	   
-	        <xsl:call-template name="createPackagedElementsInfo">
-	            <xsl:with-param name="mode" select="$mode"/>
-	        </xsl:call-template>
-	   
 	        <xsl:call-template name="createNestedNodesInfo">
 	            <xsl:with-param name="mode" select="$mode"/>
 	        </xsl:call-template>

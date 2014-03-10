@@ -1,0 +1,21 @@
+Kas yra astropedia?
+
+Kodėl astropedija?
+
+Ką moka astropedia?
+	Use case diagrame
+
+Iš ko padaryta astropedija?
+	Visi logo
+
+Kiek yra astropedios?
+	visi Use case suskaičiuoti
+	apytikslis laikas
+	kiek žvaidždių
+	kiek duomenų
+
+Kaip bus padaryta astropedia?
+	Karolio
+	Pauliaus
+	Rimanto
+

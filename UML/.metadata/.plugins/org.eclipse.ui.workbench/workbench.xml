@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<workbench progressCount="104" version="2.0">
+<workbench progressCount="100" version="2.0">
 <workbenchAdvisor/>
-<window height="772" maximized="true" width="1280" x="0" y="0">
+<window height="1400" width="1280" x="1280" y="0">
 <fastViewData fastViewLocation="1024">
 <orientation position="512" view="com.ibm.xtools.mde.guidance"/>
 <orientation position="512" view="com.ibm.ccl.erf.ui.views.reportexplorer"/>
@@ -11,7 +11,7 @@
 </perspectiveBar>
 <coolbarLayout locked="0">
 <coolItem id="group.file" itemType="typeGroupMarker"/>
-<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="539" y="30"/>
+<coolItem id="org.eclipse.ui.workbench.file" itemType="typeToolBarContribution" x="437" y="30"/>
 <coolItem id="additions" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.xtools.common.ui.reduction.modelingViewpointsActionSet" itemType="typeToolBarContribution" x="101" y="30"/>
 <coolItem id="com.ibm.xtools.modeler.ui.actions.ModelingActionSet" itemType="typeToolBarContribution" x="38" y="30"/>
@@ -24,7 +24,7 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1024" y="22"/>
+<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1045" y="22"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.support.feedback.errorreports.ui.crashReportToolbar" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="com.ibm.cic.licensing.common.ui.controlContribution" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -39,17 +39,11 @@
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
-<part id="3"/>
-<part id="4"/>
-<part id="5"/>
-<part id="6"/>
-<part id="7"/>
-<part id="8"/>
 </presentation>
 </folder>
 </info>
 </editorArea>
-<editor id="com.ibm.xtools.modeler.ui.editors.internal.ModelEditor" name="Astropedia.emx" partName="Astropedia.emx" path="D:/Projektai/Astropedia/UML/Miscellaneous Models/Astropedia.emx" title="Astropedia.emx" tooltip="Miscellaneous Models/Astropedia.emx" workbook="DefaultEditorWorkbook">
+<editor id="com.ibm.xtools.modeler.ui.editors.internal.ModelEditor" name="Astropedia.emx" partName="Astropedia.emx" path="D:/Projects/Astropedia/UML/Miscellaneous Models/Astropedia.emx" title="Astropedia.emx" tooltip="Miscellaneous Models/Astropedia.emx" workbook="DefaultEditorWorkbook">
 <input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Miscellaneous Models/Astropedia.emx"/>
 </editor>
 </editors>
@@ -142,17 +136,17 @@
 <view id="com.ibm.xtools.mde.guidance" ratio="0.3"/>
 </fastViews>
 <fastViewBars>
-<fastViewBar fastViewLocation="1024" id="underEditorArea" orientation="256" selectedTabId="org.eclipse.ui.views.ProblemView" style="0">
+<fastViewBar fastViewLocation="1024" id="underEditorArea" orientation="256" selectedTabId="org.eclipse.ui.console.ConsoleView" style="0">
 <fastViews>
 <view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
 <view id="com.ibm.etools.common.migration.view.MigrationValidationResultsView" ratio="0.3"/>
 <view id="org.eclipse.ui.views.ProblemView" ratio="0.2989865"/>
-<view id="org.eclipse.ui.console.ConsoleView" ratio="0.3"/>
+<view id="org.eclipse.ui.console.ConsoleView" ratio="0.70255476"/>
 </fastViews>
 </fastViewBar>
 <fastViewBar fastViewLocation="16384" id="projectExplorerArea" orientation="512" selectedTabId="org.eclipse.ui.navigator.ProjectExplorer" style="1">
 <fastViews>
-<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.24267468"/>
+<view id="org.eclipse.ui.navigator.ProjectExplorer" ratio="0.24247356"/>
 </fastViews>
 </fastViewBar>
 <fastViewBar fastViewLocation="16384" id="underProjectExplorerArea" orientation="256" selectedTabId="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" style="1">

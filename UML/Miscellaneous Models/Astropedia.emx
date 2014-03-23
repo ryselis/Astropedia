@@ -114,7 +114,7 @@
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_7zjsAKofEeOt45UTIryEWA" type="Name"/>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_7zjsAaofEeOt45UTIryEWA" type="Parent"/>
                 <children xmi:type="notation:ListCompartment" xmi:id="_7zjsAqofEeOt45UTIryEWA" visible="false" type="Extension_Points"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7zid4aofEeOt45UTIryEWA" x="5782" y="4766"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_7zid4aofEeOt45UTIryEWA" x="5386" y="4040"/>
               </children>
               <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_E0zqEKogEeOt45UTIryEWA" element="_E0x04KogEeOt45UTIryEWA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                 <children xmi:type="notation:DecorationNode" xmi:id="_E00RIKogEeOt45UTIryEWA" type="ImageCompartment">
@@ -204,7 +204,7 @@
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_DNXVs6ohEeOt45UTIryEWA" type="Name"/>
                 <children xmi:type="notation:BasicDecorationNode" xmi:id="_DNX8wKohEeOt45UTIryEWA" type="Parent"/>
                 <children xmi:type="notation:ListCompartment" xmi:id="_DNX8waohEeOt45UTIryEWA" visible="false" type="Extension_Points"/>
-                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DNWuoaohEeOt45UTIryEWA" x="15682" y="6177"/>
+                <layoutConstraint xmi:type="notation:Bounds" xmi:id="_DNWuoaohEeOt45UTIryEWA" x="16474" y="6548"/>
               </children>
               <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_IYxqoKohEeOt45UTIryEWA" element="_IYv1cKohEeOt45UTIryEWA" fontName="Segoe UI" fontHeight="8" fillColor="16116705" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
                 <children xmi:type="notation:DecorationNode" xmi:id="_IYxqoqohEeOt45UTIryEWA" type="ImageCompartment">
@@ -237,7 +237,7 @@
                 <layoutConstraint xmi:type="notation:Bounds" xmi:id="_S2yRQaqHEeOFIqk5hJo-jw" x="6838" y="6548"/>
               </children>
             </children>
-            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uk8bcaUREeO3VbawKAh8Ig" x="17424" y="4356" width="24480" height="10530"/>
+            <layoutConstraint xmi:type="notation:Bounds" xmi:id="_Uk8bcaUREeO3VbawKAh8Ig" x="17159" y="4355" width="24745" height="11588"/>
           </children>
           <children xmi:type="umlnotation:UMLClassifierShape" xmi:id="_XbgZoKqHEeOFIqk5hJo-jw" element="_XVsskKqHEeOFIqk5hJo-jw" fontName="Segoe UI" fontHeight="8" fillColor="15912618" transparency="0" lineColor="15912618" lineWidth="1" showStereotype="Label">
             <children xmi:type="notation:DecorationNode" xmi:id="_XbqKoaqHEeOFIqk5hJo-jw" type="ImageCompartment">
@@ -7144,7 +7144,7 @@
       <group xmi:type="uml:ActivityPartition" xmi:id="_PTW0gKqMEeOpjaco8U06NA" name="User" node="_SIDwwKqMEeOpjaco8U06NA _S7fY0KqMEeOpjaco8U06NA _vtgLoKqMEeOpjaco8U06NA" edge="_T9r1oKqMEeOpjaco8U06NA _a1mvsKqMEeOpjaco8U06NA"/>
       <group xmi:type="uml:ActivityPartition" xmi:id="_Pmyt4KqMEeOpjaco8U06NA" name="System" node="_cW9NsKqMEeOpjaco8U06NA _mJAWkKqMEeOpjaco8U06NA" edge="_woZGkKqMEeOpjaco8U06NA _xJWekKqMEeOpjaco8U06NA"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Activity" xmi:id="_Hq71IKqNEeOpjaco8U06NA" name="Activity2" partition="_La-_UKqNEeOpjaco8U06NA _MdsZgKqNEeOpjaco8U06NA">
+    <packagedElement xmi:type="uml:Activity" xmi:id="_Hq71IKqNEeOpjaco8U06NA" name="Scroll through star map" partition="_La-_UKqNEeOpjaco8U06NA _MdsZgKqNEeOpjaco8U06NA">
       <eAnnotations xmi:id="_Hq9DQKqNEeOpjaco8U06NA" source="uml2.diagrams">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_Hq9DQaqNEeOpjaco8U06NA" type="Activity" element="_Hq71IKqNEeOpjaco8U06NA" name="scroll trough star map" measurementUnit="Himetric">
           <children xmi:type="umlnotation:UMLFrame" xmi:id="_Hq9DQqqNEeOpjaco8U06NA" type="Activity Frame" element="_Hq71IKqNEeOpjaco8U06NA" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">
@@ -7406,7 +7406,7 @@
       <node xmi:type="uml:OpaqueAction" xmi:id="_DwoGQKqOEeOpjaco8U06NA" name="Press update" outgoing="_Qr9UQKqOEeOpjaco8U06NA" incoming="_HHQD0KqOEeOpjaco8U06NA" inPartition="__W5F4KqNEeOpjaco8U06NA"/>
       <node xmi:type="uml:OpaqueAction" xmi:id="_JsCUwKqOEeOpjaco8U06NA" name="Dowload star catalogs" outgoing="_RBFPsKqOEeOpjaco8U06NA" incoming="_Qr9UQKqOEeOpjaco8U06NA" inPartition="__j_GsKqNEeOpjaco8U06NA"/>
       <node xmi:type="uml:OpaqueAction" xmi:id="_LnCo4KqOEeOpjaco8U06NA" name="Check for missing data in DB" outgoing="_RS_fEKqOEeOpjaco8U06NA" incoming="_RBFPsKqOEeOpjaco8U06NA" inPartition="__j_GsKqNEeOpjaco8U06NA"/>
-      <node xmi:type="uml:OpaqueAction" xmi:id="_OoRlQKqOEeOpjaco8U06NA" name="Parse to XML" outgoing="_SQ-KQKqOEeOpjaco8U06NA" incoming="_RS_fEKqOEeOpjaco8U06NA" inPartition="__j_GsKqNEeOpjaco8U06NA"/>
+      <node xmi:type="uml:OpaqueAction" xmi:id="_OoRlQKqOEeOpjaco8U06NA" name="Generate XML" outgoing="_SQ-KQKqOEeOpjaco8U06NA" incoming="_RS_fEKqOEeOpjaco8U06NA" inPartition="__j_GsKqNEeOpjaco8U06NA"/>
       <node xmi:type="uml:ActivityFinalNode" xmi:id="_RxO6QKqOEeOpjaco8U06NA" incoming="_SQ-KQKqOEeOpjaco8U06NA" inPartition="__W5F4KqNEeOpjaco8U06NA"/>
       <edge xmi:type="uml:ControlFlow" xmi:id="_HHQD0KqOEeOpjaco8U06NA" source="_DJa8UKqOEeOpjaco8U06NA" target="_DwoGQKqOEeOpjaco8U06NA" inPartition="__W5F4KqNEeOpjaco8U06NA">
         <guard xmi:type="uml:OpaqueExpression" xmi:id="_HHQq4KqOEeOpjaco8U06NA">
@@ -7446,7 +7446,7 @@
       <group xmi:type="uml:ActivityPartition" xmi:id="__W5F4KqNEeOpjaco8U06NA" name="Admin" node="_DJa8UKqOEeOpjaco8U06NA _DwoGQKqOEeOpjaco8U06NA _RxO6QKqOEeOpjaco8U06NA" edge="_HHQD0KqOEeOpjaco8U06NA _Qr9UQKqOEeOpjaco8U06NA"/>
       <group xmi:type="uml:ActivityPartition" xmi:id="__j_GsKqNEeOpjaco8U06NA" name="System" node="_JsCUwKqOEeOpjaco8U06NA _LnCo4KqOEeOpjaco8U06NA _OoRlQKqOEeOpjaco8U06NA" edge="_RBFPsKqOEeOpjaco8U06NA _RS_fEKqOEeOpjaco8U06NA _SQ-KQKqOEeOpjaco8U06NA"/>
     </packagedElement>
-    <packagedElement xmi:type="uml:Activity" xmi:id="_s4YtwKqOEeOpjaco8U06NA" name="Activity4" partition="_xVHXwKqOEeOpjaco8U06NA _0b3GQKqOEeOpjaco8U06NA">
+    <packagedElement xmi:type="uml:Activity" xmi:id="_s4YtwKqOEeOpjaco8U06NA" name="Import XML" partition="_xVHXwKqOEeOpjaco8U06NA _0b3GQKqOEeOpjaco8U06NA">
       <eAnnotations xmi:id="_s4Z74KqOEeOpjaco8U06NA" source="uml2.diagrams">
         <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_s4Z74aqOEeOpjaco8U06NA" type="Activity" element="_s4YtwKqOEeOpjaco8U06NA" name="Import data from XML" measurementUnit="Himetric">
           <children xmi:type="umlnotation:UMLFrame" xmi:id="_s4Z74qqOEeOpjaco8U06NA" type="Activity Frame" element="_s4YtwKqOEeOpjaco8U06NA" fontName="Segoe UI" fontHeight="8" fillColor="16250871" transparency="0" lineColor="12632258" lineWidth="1" showStereotype="Label">

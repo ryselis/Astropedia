@@ -7666,6 +7666,9 @@
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_vH4ZQaqQEeOpjaco8U06NA" type="Freeform" name="Main">
             <element xsi:nil="true"/>
           </contents>
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_63WboKqREeOpjaco8U06NA" type="Usecase" name="Drawing use case">
+            <element xsi:nil="true"/>
+          </contents>
         </eAnnotations>
         <packagedElement xmi:type="uml:Dependency" xmi:id="_f3ZcUKqREeOpjaco8U06NA" supplier="_xAYzAKqQEeOpjaco8U06NA" client="_vH3yMKqQEeOpjaco8U06NA"/>
       </packagedElement>
@@ -7674,9 +7677,11 @@
           <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_xAZaEKqQEeOpjaco8U06NA" type="Freeform" name="Main">
             <element xsi:nil="true"/>
           </contents>
+          <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_y8EnIKqREeOpjaco8U06NA" type="Usecase" name="Database management use case">
+            <element xsi:nil="true"/>
+          </contents>
         </eAnnotations>
       </packagedElement>
-      <packagedElement xmi:type="uml:UseCase" xmi:id="_llSzQKqREeOpjaco8U06NA" name="Database management use case"/>
     </packagedElement>
     <profileApplication xmi:id="_JIlNtpoMEeO9Js8AM65SAg">
       <eAnnotations xmi:id="_JIlNt5oMEeO9Js8AM65SAg" source="http://www.eclipse.org/uml2/2.0.0/UML">

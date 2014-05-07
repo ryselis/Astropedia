@@ -1,5 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<<<<<<< HEAD
 <workbench progressCount="1" version="2.0">
+=======
+<workbench progressCount="114" version="2.0">
+>>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
 <workbenchAdvisor/>
 <window height="772" maximized="true" width="1280" x="896" y="43">
 <fastViewData fastViewLocation="1024">
@@ -24,8 +28,8 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="SequenceDiagramEditorWithHeader" itemType="typeToolBarContribution" x="1024" y="22"/>
-<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1024" y="22"/>
+<coolItem id="SequenceDiagramEditorWithHeader" itemType="typeToolBarContribution" x="1045" y="30"/>
+<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1045" y="30"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.support.feedback.errorreports.ui.crashReportToolbar" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="com.ibm.cic.licensing.common.ui.controlContribution" itemType="typeToolBarContribution" x="-1" y="-1"/>
@@ -36,7 +40,18 @@
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
+<<<<<<< HEAD
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+=======
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+<part id="2"/>
+<part id="3"/>
+<part id="4"/>
+<part id="5"/>
+</presentation>
+>>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
 </folder>
 </info>
 </editorArea>
@@ -65,6 +80,12 @@
 </viewState>
 </view>
 <view id="com.ibm.etools.common.migration.view.MigrationValidationResultsView" partName="Migration Results">
+<<<<<<< HEAD
+=======
+<viewState/>
+</view>
+<view id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" partName="Layers">
+>>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
 <viewState/>
 </view>
 <view id="org.eclipse.ui.console.ConsoleView" partName="Console">
@@ -73,7 +94,11 @@
 <view id="com.ibm.xtools.mde.guidance" partName="MDD Guidance"/>
 <view id="com.ibm.ccl.erf.ui.views.reportexplorer" partName="Report Explorer"/>
 </views>
+<<<<<<< HEAD
 <perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective">
+=======
+<perspectives activePart="SequenceDiagramEditorWithHeader" activePerspective="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective">
+>>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.ibm.xtools.rmp.ui.internal.perspective.ModelingPerspective" id="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective" label="Modeling"/>
 <alwaysOnActionSet id="com.ibm.rational.welcome.core.helpSearchActionSet"/>
@@ -147,6 +172,12 @@
 <view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
 </fastViews>
 </fastViewBar>
+<fastViewBar fastViewLocation="16384" id="underProjectExplorerArea" orientation="512" selectedTabId="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" style="0">
+<fastViews>
+<view id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" ratio="0.3"/>
+<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
+</fastViews>
+</fastViewBar>
 </fastViewBars>
 <layout>
 <mainWindow>
@@ -183,7 +214,11 @@
 </folder>
 </info>
 <info folder="true" part="underProjectExplorerArea" ratio="0.6594427" ratioLeft="426" ratioRight="220" relationship="4" relative="projectExplorerArea">
+<<<<<<< HEAD
 <folder appearance="2" expanded="2">
+=======
+<folder appearance="2" expanded="0">
+>>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
 <page content="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
 <page content="com.ibm.xtools.modeler.ui.internal.ui.views.InheritanceExplorer" label="LabelNotFound"/>
@@ -202,7 +237,6 @@
 <actionBarAdvisor/>
 <trimLayout>
 <trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="projectExplorerArea"/>
 <trimItem IMemento.internal.id="underProjectExplorerArea"/>
 </trimArea>
 <trimArea IMemento.internal.id="128">

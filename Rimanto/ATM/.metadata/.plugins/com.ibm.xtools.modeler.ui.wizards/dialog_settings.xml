@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="Uml2ExportWizard">
+		<item value="true" key="WorkspaceSelected"/>
+		<item value="" key="DefaultDirectoryPath"/>
+		<item value="false" key="UML2ExportAppliedProfiles"/>
+		<item value="true" key="RecreateIDs"/>
+		<item value="" key="WorkspacePath"/>
+	</section>
+</section>

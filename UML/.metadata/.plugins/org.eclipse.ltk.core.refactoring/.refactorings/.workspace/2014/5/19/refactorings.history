@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;astropedia_java&apos;" deleteContents="true" description="Delete resource &apos;astropedia_java&apos;" element1="/astropedia_java" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1399489109694"/>&#x0A;<refactoring comment="Delete resource &apos;Karolis Ušaniov/astropedia.java.tc&apos;" deleteContents="false" description="Delete resource &apos;Karolis Ušaniov/astropedia.java.tc&apos;" element1="/Karolis Ušaniov/astropedia.java.tc" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1399489112697"/>
+</session>

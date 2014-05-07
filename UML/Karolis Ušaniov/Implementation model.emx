@@ -1,0 +1,800 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--xtools2_universal_type_manager-->
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.uml.msl.model" version="7.0.0"><feature description="" name="com.ibm.xtools.ruml.feature" url="" version="7.0.0"/></signature>?>
+<?com.ibm.xtools.emf.core.signature <signature id="com.ibm.xtools.mmi.ui.signatures.diagram" version="7.0.0"><feature description="" name="Rational Modeling Platform (com.ibm.xtools.rmp)" url="" version="7.0.0"/></signature>?>
+<uml:Package xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:ecore="http://www.eclipse.org/emf/2002/Ecore" xmlns:notation="http://www.eclipse.org/gmf/runtime/1.0.2/notation" xmlns:uml="http://www.eclipse.org/uml2/3.0.0/UML" xmlns:umlnotation="http://www.ibm.com/xtools/1.5.3/Umlnotation" xmi:id="_fTfgotYYEeO3r5Swf4UENQ" name="Implementation model">
+  <eAnnotations xmi:id="_fTfgo9YYEeO3r5Swf4UENQ" source="uml2.diagrams" references="_fTfgpNYYEeO3r5Swf4UENQ">
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_fTfgpNYYEeO3r5Swf4UENQ" type="Freeform" name="Main">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPlodYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPlotYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPlo9YaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlpNYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlpdYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlptYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlp9YaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlqNYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlqdYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPlqtYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_-GyLAJ8rEeO6G7Q8Gv873Q?Astropedia/Business%20Model/AstronomicalObject?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPlq9YaEeO3r5Swf4UENQ" x="22541" y="8148"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPlrNYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPlrdYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPlrtYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlr9YaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlsNYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlsdYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlstYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPls9YaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPltNYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPltdYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_BUCxMJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Star?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPlttYaEeO3r5Swf4UENQ" x="28733" y="2856"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPlt9YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPluNYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPludYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlutYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlu9YaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlvNYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlvdYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlvtYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlv9YaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPlwNYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_CkK8UJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Planet?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPlwdYaEeO3r5Swf4UENQ" x="21483" y="3253"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPlwtYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPlw9YaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPlxNYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlxdYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlxtYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPlx9YaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlyNYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlydYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPlytYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPly9YaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_DtMZ4J8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Constellation?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPlzNYaEeO3r5Swf4UENQ" x="15927" y="2327"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPlzdYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPlztYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPlz9YaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl0NYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl0dYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl0tYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl09YaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl1NYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl1dYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPl1tYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_GPR8IJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Galaxy?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPl19YaEeO3r5Swf4UENQ" x="31643" y="11323"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPl2NYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPl2dYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPl2tYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl29YaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl3NYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl3dYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl3tYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl39YaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl4NYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPl4dYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_dYprcJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Nebula?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPl4tYaEeO3r5Swf4UENQ" x="33363" y="8413"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPl49YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPl5NYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPl5dYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl5tYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl59YaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl6NYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl6dYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl6tYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl69YaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPl7NYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_wPGXkJ8tEeO6G7Q8Gv873Q?Astropedia/Business%20Model/ConstellationBound?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPl7dYaEeO3r5Swf4UENQ" x="14736" y="6031"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPl7tYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPl79YaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPl8NYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl8dYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl8tYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl89YaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl9NYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl9dYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl9tYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPl99YaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_6-FkAKR2EeO0c7u_bQAM0w?Astropedia/Business%20Model/ConstellationForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPl-NYaEeO3r5Swf4UENQ" x="35083" y="5635"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPl-dYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPl-tYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPl-9YaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl_NYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl_dYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPl_tYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPl_9YaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmANYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmAdYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPmAtYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_BOSWwKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/ConstellationBoundForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmA9YaEeO3r5Swf4UENQ" x="38893" y="2856"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPmBNYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmBdYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPmBtYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmB9YaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmCNYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmCdYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmCtYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmC9YaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmDNYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPmDdYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_FBrI0KR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/PlanetForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmDtYaEeO3r5Swf4UENQ" x="44581" y="2856"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPmD9YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmENYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPmEdYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmEtYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmE9YaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmFNYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmFdYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmFtYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmF9YaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPmGNYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_J5DugKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObjectForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmGdYaEeO3r5Swf4UENQ" x="42597" y="7619"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPmGtYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmG9YaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPmHNYaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmHdYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmHtYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmH9YaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmINYaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmIdYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmItYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPmI9YaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_M-enUKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/StarForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmJNYaEeO3r5Swf4UENQ" x="37173" y="7884"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_hNPmJdYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmJtYaEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_hNPmJ9YaEeO3r5Swf4UENQ" width="1270" height="1270"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmKNYaEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmKdYaEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmKtYaEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmK9YaEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmLNYaEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmLdYaEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_hNPmLtYaEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_POfiIKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/GalaxyNebulaForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmL9YaEeO3r5Swf4UENQ" x="48153" y="9736"/>
+      </children>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmMNYaEeO3r5Swf4UENQ" source="_hNPlrNYaEeO3r5Swf4UENQ" target="_hNPlodYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmMdYaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmMtYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmM9YaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmNNYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_c5djIJ8uEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Star/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmNdYaEeO3r5Swf4UENQ" points="[-1694, 1455, 4445, -4022]$[-1694, 3069, 4445, -2435]$[-4789, 3069, 1322, -2435]$[-4789, 3730, 1322, -1747]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmNtYaEeO3r5Swf4UENQ" source="_hNPlzdYaEeO3r5Swf4UENQ" target="_hNPlodYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmN9YaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmONYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmOdYaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmOtYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_hNeWAJ8uEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Galaxy/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmO9YaEeO3r5Swf4UENQ" points="[-1032, -159, 6905, -2514]$[-1323, -159, 6614, -2514]$[-1323, 1508, 6614, -847]$[-6086, 1508, 1852, -847]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmPNYaEeO3r5Swf4UENQ" source="_hNPl2NYaEeO3r5Swf4UENQ" target="_hNPlodYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmPdYaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmPtYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmP9YaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmQNYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_iFrJUJ8uEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Nebula/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmQdYaEeO3r5Swf4UENQ" points="[-80, 0, 740, 0]$[-847, 0, 0, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmQtYaEeO3r5Swf4UENQ" source="_hNPl-dYaEeO3r5Swf4UENQ" target="_hNPmD9YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmQ9YaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmRNYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmRdYaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmRtYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_DA6t0KR-EeO0c7u_bQAM0w?Astropedia/Business%20Model/ConstellationBoundForm/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmR9YaEeO3r5Swf4UENQ" points="[0, 0, -159, -159]$[52, 132, -80, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmSNYaEeO3r5Swf4UENQ" source="_hNPmJdYaEeO3r5Swf4UENQ" target="_hNPmD9YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmSdYaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmStYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmS9YaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmTNYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_Fk3RQKR-EeO0c7u_bQAM0w?Astropedia/Business%20Model/GalaxyNebulaForm/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmTdYaEeO3r5Swf4UENQ" points="[0, -53, 0, 79]$[0, -186, 52, -53]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmTtYaEeO3r5Swf4UENQ" source="_hNPmGtYaEeO3r5Swf4UENQ" target="_hNPmD9YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmT9YaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmUNYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmUdYaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmUtYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_IbtikKR-EeO0c7u_bQAM0w?Astropedia/Business%20Model/StarForm/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmU9YaEeO3r5Swf4UENQ" points="[0, -53, -212, 26]$[79, -133, -133, -53]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmVNYaEeO3r5Swf4UENQ" source="_hNPlwtYaEeO3r5Swf4UENQ" target="_hNPlodYaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmVdYaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmVtYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmV9YaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmWNYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmWdYaEeO3r5Swf4UENQ" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmWtYaEeO3r5Swf4UENQ" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmW9YaEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmXNYaEeO3r5Swf4UENQ" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmXdYaEeO3r5Swf4UENQ" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmXtYaEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmX9YaEeO3r5Swf4UENQ" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmYNYaEeO3r5Swf4UENQ" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmYdYaEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmYtYaEeO3r5Swf4UENQ" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmY9YaEeO3r5Swf4UENQ" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmZNYaEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmZdYaEeO3r5Swf4UENQ" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmZtYaEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmZ9YaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmaNYaEeO3r5Swf4UENQ" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmadYaEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmatYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPma9YaEeO3r5Swf4UENQ" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_hNPmbNYaEeO3r5Swf4UENQ" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmbdYaEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmbtYaEeO3r5Swf4UENQ" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_hNPmb9YaEeO3r5Swf4UENQ" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmcNYaEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Astropedia.emx#_ifrogKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmcdYaEeO3r5Swf4UENQ" points="[1402, 0, -5636, -6218]$[2857, 0, -4207, -6218]$[2857, 5318, -4207, -900]$[5106, 5318, -1905, -900]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmctYaEeO3r5Swf4UENQ" source="_hNPlrNYaEeO3r5Swf4UENQ" target="_hNPlt9YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmc9YaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmdNYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmddYaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmdtYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmd9YaEeO3r5Swf4UENQ" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmeNYaEeO3r5Swf4UENQ" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmedYaEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmetYaEeO3r5Swf4UENQ" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPme9YaEeO3r5Swf4UENQ" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmfNYaEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmfdYaEeO3r5Swf4UENQ" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmftYaEeO3r5Swf4UENQ" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmf9YaEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmgNYaEeO3r5Swf4UENQ" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmgdYaEeO3r5Swf4UENQ" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmgtYaEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmg9YaEeO3r5Swf4UENQ" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmhNYaEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmhdYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmhtYaEeO3r5Swf4UENQ" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmh9YaEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmiNYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmidYaEeO3r5Swf4UENQ" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_hNPmitYaEeO3r5Swf4UENQ" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmi9YaEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmjNYaEeO3r5Swf4UENQ" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_hNPmjdYaEeO3r5Swf4UENQ" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmjtYaEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Astropedia.emx#_91FTYKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmj9YaEeO3r5Swf4UENQ" points="[-106, -53, 105, -53]$[-212, -80, 0, -80]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_hNPmkNYaEeO3r5Swf4UENQ" source="_hNPlwtYaEeO3r5Swf4UENQ" target="_hNPl49YaEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmkdYaEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmktYaEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmk9YaEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_hNPmlNYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmldYaEeO3r5Swf4UENQ" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmltYaEeO3r5Swf4UENQ" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPml9YaEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmmNYaEeO3r5Swf4UENQ" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmmdYaEeO3r5Swf4UENQ" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmmtYaEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmm9YaEeO3r5Swf4UENQ" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmnNYaEeO3r5Swf4UENQ" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmndYaEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmntYaEeO3r5Swf4UENQ" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_hNPmn9YaEeO3r5Swf4UENQ" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmoNYaEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmodYaEeO3r5Swf4UENQ" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmotYaEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmo9YaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmpNYaEeO3r5Swf4UENQ" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_hNPmpdYaEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmptYaEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmp9YaEeO3r5Swf4UENQ" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_hNPmqNYaEeO3r5Swf4UENQ" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmqdYaEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_hNPmqtYaEeO3r5Swf4UENQ" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_hNPmq9YaEeO3r5Swf4UENQ" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_hNPmrNYaEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Astropedia.emx#_JMScMKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_hNPmrdYaEeO3r5Swf4UENQ" points="[-53, 0, 0, -106]$[0, 79, 26, 0]"/>
+      </edges>
+    </contents>
+    <contents xmi:type="umlnotation:UMLDiagram" xmi:id="_rJRb0NYYEeO3r5Swf4UENQ" type="Class" name="Cosmic objects class diagram">
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcIdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcItYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBcI9YYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcJNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcJdYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcJtYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcJ9YYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcKNYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcKdYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcKtYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_-GyLAJ8rEeO6G7Q8Gv873Q?Astropedia/Business%20Model/AstronomicalObject?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBcK9YYEeO3r5Swf4UENQ" x="22303" y="7910"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcLNYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcLdYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBcLtYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcL9YYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcMNYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcMdYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcMtYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcM9YYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcNNYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcNdYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_BUCxMJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Star?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBcNtYYEeO3r5Swf4UENQ" x="28495" y="2618"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcN9YYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcONYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBcOdYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcOtYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcO9YYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcPNYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcPdYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcPtYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcP9YYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcQNYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_CkK8UJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Planet?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBcQdYYEeO3r5Swf4UENQ" x="21245" y="3015"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcQtYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcQ9YYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBcRNYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcRdYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcRtYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcR9YYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcSNYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcSdYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcStYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcS9YYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_DtMZ4J8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Constellation?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBcTNYYEeO3r5Swf4UENQ" x="15689" y="2089"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcTdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcTtYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBcT9YYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcUNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcUdYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcUtYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcU9YYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcVNYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcVdYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcVtYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_GPR8IJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Galaxy?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBcV9YYEeO3r5Swf4UENQ" x="31405" y="11085"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcWNYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcWdYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBcWtYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcW9YYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcXNYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcXdYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcXtYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcX9YYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcYNYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcYdYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_dYprcJ8sEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Nebula?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBcYtYYEeO3r5Swf4UENQ" x="33125" y="8175"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcY9YYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcZNYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBcZdYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcZtYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcZ9YYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcaNYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcadYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcatYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBca9YYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcbNYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_wPGXkJ8tEeO6G7Q8Gv873Q?Astropedia/Business%20Model/ConstellationBound?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBcbdYYEeO3r5Swf4UENQ" x="14498" y="5793"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcbtYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FBcb9YYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FBccNYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBccdYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcctYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FBcc9YYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcdNYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcddYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FBcdtYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FBcd9YYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_6-FkAKR2EeO0c7u_bQAM0w?Astropedia/Business%20Model/ConstellationForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FBceNYYEeO3r5Swf4UENQ" x="34845" y="5396"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FBcedYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmENYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FKmEdYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmEtYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmE9YYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmFNYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmFdYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmFtYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmF9YYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FKmGNYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_BOSWwKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/ConstellationBoundForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmGdYYEeO3r5Swf4UENQ" x="38655" y="2618"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FKmGtYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmG9YYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FKmHNYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmHdYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmHtYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmH9YYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmINYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmIdYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmItYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FKmI9YYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_FBrI0KR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/PlanetForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmJNYYEeO3r5Swf4UENQ" x="44343" y="2618"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FKmJdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmJtYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FKmJ9YYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmKNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmKdYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmKtYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmK9YYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmLNYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmLdYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FKmLtYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_J5DugKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObjectForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmL9YYEeO3r5Swf4UENQ" x="42359" y="7381"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FKmMNYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmMdYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FKmMtYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmM9YYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmNNYYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmNdYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmNtYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmN9YYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmONYYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FKmOdYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_M-enUKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/StarForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmOtYYEeO3r5Swf4UENQ" x="36935" y="7645"/>
+      </children>
+      <children xmi:type="umlnotation:UMLShape" xmi:id="_3FKmO9YYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" transparency="0" lineColor="14263149" lineWidth="1" showStereotype="Label">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmPNYYEeO3r5Swf4UENQ" type="ImageCompartment">
+          <layoutConstraint xmi:type="notation:Size" xmi:id="_3FKmPdYYEeO3r5Swf4UENQ" width="1296" height="1296"/>
+        </children>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmPtYYEeO3r5Swf4UENQ" type="Stereotype"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmP9YYEeO3r5Swf4UENQ" type="Name"/>
+        <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmQNYYEeO3r5Swf4UENQ" type="Parent"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmQdYYEeO3r5Swf4UENQ" type="AttributeCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmQtYYEeO3r5Swf4UENQ" type="OperationCompartment"/>
+        <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmQ9YYEeO3r5Swf4UENQ" visible="false" type="SignalCompartment"/>
+        <children xmi:type="umlnotation:UMLShapeCompartment" xmi:id="_3FKmRNYYEeO3r5Swf4UENQ" visible="false" type="StructureCompartment"/>
+        <element xmi:type="uml:Class" href="Astropedia.emx#_POfiIKR3EeO0c7u_bQAM0w?Astropedia/Business%20Model/GalaxyNebulaForm?"/>
+        <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmRdYYEeO3r5Swf4UENQ" x="47915" y="9497"/>
+      </children>
+      <element xsi:nil="true"/>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmRtYYEeO3r5Swf4UENQ" source="_3FBcLNYYEeO3r5Swf4UENQ" target="_3FBcIdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmR9YYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmSNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmSdYYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmStYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_c5djIJ8uEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Star/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmS9YYEeO3r5Swf4UENQ" points="[-1667, 1481, 4445, -3996]$[-1667, 3095, 4445, -2408]$[-4763, 3095, 1349, -2408]$[-4763, 3757, 1349, -1720]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmTNYYEeO3r5Swf4UENQ" source="_3FBcTdYYEeO3r5Swf4UENQ" target="_3FBcIdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmTdYYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmTtYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmT9YYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmUNYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_hNeWAJ8uEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Galaxy/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmUdYYEeO3r5Swf4UENQ" points="[-1006, -133, 6932, -2488]$[-1297, -133, 6641, -2488]$[-1297, 1534, 6641, -821]$[-6059, 1534, 1878, -821]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmUtYYEeO3r5Swf4UENQ" source="_3FBcWNYYEeO3r5Swf4UENQ" target="_3FBcIdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmU9YYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmVNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmVdYYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmVtYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_iFrJUJ8uEeO6G7Q8Gv873Q?Astropedia/Business%20Model/Nebula/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmV9YYEeO3r5Swf4UENQ" points="[-53, 0, 767, 0]$[-821, 0, 0, 26]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmWNYYEeO3r5Swf4UENQ" source="_3FBcedYYEeO3r5Swf4UENQ" target="_3FKmJdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmWdYYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmWtYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmW9YYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmXNYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_DA6t0KR-EeO0c7u_bQAM0w?Astropedia/Business%20Model/ConstellationBoundForm/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmXdYYEeO3r5Swf4UENQ" points="[0, 0, -133, -133]$[79, 158, -53, 0]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmXtYYEeO3r5Swf4UENQ" source="_3FKmO9YYEeO3r5Swf4UENQ" target="_3FKmJdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmX9YYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmYNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmYdYYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmYtYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_Fk3RQKR-EeO0c7u_bQAM0w?Astropedia/Business%20Model/GalaxyNebulaForm/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmY9YYEeO3r5Swf4UENQ" points="[0, -27, 26, 105]$[26, -159, 79, -27]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmZNYYEeO3r5Swf4UENQ" source="_3FKmMNYYEeO3r5Swf4UENQ" target="_3FKmJdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmZdYYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmZtYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmZ9YYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmaNYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <element xmi:type="uml:Generalization" href="Astropedia.emx#_IbtikKR-EeO0c7u_bQAM0w?Astropedia/Business%20Model/StarForm/%3CGeneralization%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmadYYEeO3r5Swf4UENQ" points="[26, -27, -186, 52]$[105, -106, -106, -27]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmatYYEeO3r5Swf4UENQ" source="_3FBcQtYYEeO3r5Swf4UENQ" target="_3FBcIdYYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKma9YYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmbNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmbdYYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmbtYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmb9YYEeO3r5Swf4UENQ" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmcNYYEeO3r5Swf4UENQ" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmcdYYEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmctYYEeO3r5Swf4UENQ" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmc9YYEeO3r5Swf4UENQ" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmdNYYEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmddYYEeO3r5Swf4UENQ" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmdtYYEeO3r5Swf4UENQ" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmd9YYEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmeNYYEeO3r5Swf4UENQ" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmedYYEeO3r5Swf4UENQ" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmetYYEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKme9YYEeO3r5Swf4UENQ" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmfNYYEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmfdYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmftYYEeO3r5Swf4UENQ" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmf9YYEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmgNYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmgdYYEeO3r5Swf4UENQ" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_3FKmgtYYEeO3r5Swf4UENQ" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrohKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/AstronomicalObject/constellation?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmg9YYEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmhNYYEeO3r5Swf4UENQ" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_3FKmhdYYEeO3r5Swf4UENQ" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_ifrogaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/astronomicalObject?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmhtYYEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Astropedia.emx#_ifrogKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmh9YYEeO3r5Swf4UENQ" points="[1428, 26, -5610, -6192]$[2883, 26, -4181, -6192]$[2883, 5344, -4181, -874]$[5132, 5344, -1905, -874]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmiNYYEeO3r5Swf4UENQ" source="_3FBcLNYYEeO3r5Swf4UENQ" target="_3FBcN9YYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmidYYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmitYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmi9YYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmjNYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmjdYYEeO3r5Swf4UENQ" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmjtYYEeO3r5Swf4UENQ" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmj9YYEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmkNYYEeO3r5Swf4UENQ" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmkdYYEeO3r5Swf4UENQ" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmktYYEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmk9YYEeO3r5Swf4UENQ" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmlNYYEeO3r5Swf4UENQ" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmldYYEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmltYYEeO3r5Swf4UENQ" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKml9YYEeO3r5Swf4UENQ" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmmNYYEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmmdYYEeO3r5Swf4UENQ" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmmtYYEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmm9YYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmnNYYEeO3r5Swf4UENQ" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmndYYEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmntYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmn9YYEeO3r5Swf4UENQ" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_3FKmoNYYEeO3r5Swf4UENQ" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTZKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Planet/star2?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmodYYEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmotYYEeO3r5Swf4UENQ" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_3FKmo9YYEeO3r5Swf4UENQ" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_91FTYaSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/Star/planet?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmpNYYEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Astropedia.emx#_91FTYKSDEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmpdYYEeO3r5Swf4UENQ" points="[-80, -27, 132, -27]$[-186, -53, 26, -53]"/>
+      </edges>
+      <edges xmi:type="umlnotation:UMLConnector" xmi:id="_3FKmptYYEeO3r5Swf4UENQ" source="_3FBcQtYYEeO3r5Swf4UENQ" target="_3FBcY9YYEeO3r5Swf4UENQ" fontName="Segoe UI" fontHeight="8" roundedBendpointsRadius="4" routing="Rectilinear" lineColor="8421504" lineWidth="1" showStereotype="Text">
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmp9YYEeO3r5Swf4UENQ" type="NameLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmqNYYEeO3r5Swf4UENQ" type="Stereotype"/>
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmqdYYEeO3r5Swf4UENQ" type="Name"/>
+          <layoutConstraint xmi:type="notation:Bounds" xmi:id="_3FKmqtYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmq9YYEeO3r5Swf4UENQ" type="ToMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmrNYYEeO3r5Swf4UENQ" type="ToMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmrdYYEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmrtYYEeO3r5Swf4UENQ" type="ToRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmr9YYEeO3r5Swf4UENQ" type="ToRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmsNYYEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmsdYYEeO3r5Swf4UENQ" type="FromMultiplicityLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmstYYEeO3r5Swf4UENQ" type="FromMultiplicity"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKms9YYEeO3r5Swf4UENQ" y="396"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmtNYYEeO3r5Swf4UENQ" type="FromRoleLabel">
+          <children xmi:type="notation:BasicDecorationNode" xmi:id="_3FKmtdYYEeO3r5Swf4UENQ" type="FromRole"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmttYYEeO3r5Swf4UENQ" y="-397"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmt9YYEeO3r5Swf4UENQ" type="ToQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmuNYYEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmudYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmutYYEeO3r5Swf4UENQ" type="FromQualifierLabel">
+          <children xmi:type="notation:SemanticListCompartment" xmi:id="_3FKmu9YYEeO3r5Swf4UENQ" type="QualifierCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmvNYYEeO3r5Swf4UENQ" y="-186"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmvdYYEeO3r5Swf4UENQ" type="ToConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_3FKmvtYYEeO3r5Swf4UENQ" type="ToConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScNKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E/%3CProperty%3E?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmv9YYEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <children xmi:type="notation:DecorationNode" xmi:id="_3FKmwNYYEeO3r5Swf4UENQ" type="FromConstraintLabel">
+          <children xmi:type="notation:ListCompartment" xmi:id="_3FKmwdYYEeO3r5Swf4UENQ" type="FromConstraintCompartment"/>
+          <element xmi:type="uml:Property" href="Astropedia.emx#_JMScMaSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/Constellation/constellationBound?"/>
+          <layoutConstraint xmi:type="notation:Location" xmi:id="_3FKmwtYYEeO3r5Swf4UENQ" y="1058"/>
+        </children>
+        <element xmi:type="uml:Association" href="Astropedia.emx#_JMScMKSEEeO0c7u_bQAM0w?Astropedia/Business%20Model/%3CAssociation%3E?"/>
+        <bendpoints xmi:type="notation:RelativeBendpoints" xmi:id="_3FKmw9YYEeO3r5Swf4UENQ" points="[-27, 26, 0, -80]$[26, 105, 52, 0]"/>
+      </edges>
+    </contents>
+  </eAnnotations>
+  <packageImport xmi:id="_fTfgpdYYEeO3r5Swf4UENQ">
+    <importedPackage xmi:type="uml:Model" href="pathmap://UML_LIBRARIES/UMLPrimitiveTypes.library.uml#_0"/>
+  </packageImport>
+  <profileApplication xmi:id="_fTfgptYYEeO3r5Swf4UENQ">
+    <eAnnotations xmi:id="_fTfgp9YYEeO3r5Swf4UENQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML_PROFILES/Standard.profile.uml#_yzU58YinEdqtvbnfB2L_5w"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML_PROFILES/Standard.profile.uml#_0"/>
+  </profileApplication>
+  <profileApplication xmi:id="_fTfgqNYYEeO3r5Swf4UENQ">
+    <eAnnotations xmi:id="_fTfgqdYYEeO3r5Swf4UENQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Default.epx#_fNwoAAqoEd6-N_NOT9vsCA?Default/Default?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Default.epx#_a_S3wNWLEdiy4IqP8whjFA?Default?"/>
+  </profileApplication>
+  <profileApplication xmi:id="_fTfgqtYYEeO3r5Swf4UENQ">
+    <eAnnotations xmi:id="_fTfgq9YYEeO3r5Swf4UENQ" source="http://www.eclipse.org/uml2/2.0.0/UML">
+      <references xmi:type="ecore:EPackage" href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_IrdAUMmBEdqBcN1R6EvWUw?Deployment/Deployment?"/>
+    </eAnnotations>
+    <appliedProfile href="pathmap://UML2_MSL_PROFILES/Deployment.epx#_vjbuwOvHEdiDX5bji0iVSA?Deployment?"/>
+  </profileApplication>
+</uml:Package>

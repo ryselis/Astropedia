@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<<<<<<< HEAD
-<workbench progressCount="1" version="2.0">
-=======
-<workbench progressCount="114" version="2.0">
->>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
+<workbench progressCount="115" version="2.0">
 <workbenchAdvisor/>
-<window height="772" maximized="true" width="1280" x="896" y="43">
+<window height="768" maximized="true" width="1024" x="104" y="104">
 <fastViewData fastViewLocation="1024">
 <orientation position="512" view="com.ibm.xtools.mde.guidance"/>
 <orientation position="512" view="com.ibm.ccl.erf.ui.views.reportexplorer"/>
@@ -28,33 +24,33 @@
 <coolItem id="group.nav" itemType="typeGroupMarker"/>
 <coolItem id="org.eclipse.ui.workbench.navigate" itemType="typeToolBarContribution" x="190" y="30"/>
 <coolItem id="group.editor" itemType="typeGroupMarker"/>
-<coolItem id="SequenceDiagramEditorWithHeader" itemType="typeToolBarContribution" x="1045" y="30"/>
-<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1045" y="30"/>
+<coolItem id="ModelerDiagramEditor" itemType="typeToolBarContribution" x="1068" y="30"/>
 <coolItem id="group.help" itemType="typeGroupMarker"/>
 <coolItem id="com.ibm.support.feedback.errorreports.ui.crashReportToolbar" itemType="typeToolBarContribution" x="129" y="22"/>
 <coolItem id="com.ibm.cic.licensing.common.ui.controlContribution" itemType="typeToolBarContribution" x="-1" y="-1"/>
 <coolItem id="org.eclipse.ui.workbench.help" itemType="typeToolBarContribution" x="-1" y="-1"/>
 </coolbarLayout>
-<page aggregateWorkingSetId="Aggregate for window 1393784411863" focus="true" label="Workspace - Modeling">
+<page focus="true" label="Workspace - Modeling">
 <editors>
 <editorArea activeWorkbook="DefaultEditorWorkbook">
 <info part="DefaultEditorWorkbook">
 <folder appearance="1" expanded="2">
-<<<<<<< HEAD
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
-=======
 <presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
 <part id="0"/>
 <part id="1"/>
 <part id="2"/>
 <part id="3"/>
 <part id="4"/>
-<part id="5"/>
 </presentation>
->>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
 </folder>
 </info>
 </editorArea>
+<editor id="com.ibm.xtools.modeler.ui.editors.internal.ModelEditor" name="Implementation model.emx" partName="Implementation model.emx" path="D:/Projects/Astropedia/UML/Karolis Ušaniov/Implementation model.emx" title="Implementation model.emx" tooltip="Karolis Ušaniov/Implementation model.emx" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Karolis Ušaniov/Implementation model.emx"/>
+</editor>
+<editor id="com.ibm.xtools.transform.ui.transformationConfigurationEditor" name="astropedia_java.tc" partName="astropedia_java.tc" path="D:/Projects/Astropedia/UML/Karolis Ušaniov/astropedia_java.tc" title="astropedia_java.tc" tooltip="Karolis Ušaniov/astropedia_java.tc" workbook="DefaultEditorWorkbook">
+<input factoryID="org.eclipse.ui.part.FileEditorInputFactory" path="/Karolis Ušaniov/astropedia_java.tc"/>
+</editor>
 </editors>
 <views>
 <view id="org.eclipse.ui.views.PropertySheet" partName="Properties">
@@ -67,38 +63,10 @@
 <view id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" partName="Layers">
 <viewState/>
 </view>
-<view id="org.eclipse.ui.views.ProblemView" partName="Problems">
-<viewState PRIMARY_SORT_FIELD="org.eclipse.ui.ide.severityAndDescriptionField" categoryGroup="org.eclipse.ui.ide.severity" markerContentGenerator="org.eclipse.ui.ide.problemsGenerator" partName="Problems">
-<expanded>&#x0A;<category IMemento.internal.id="Errors (6 items)"/>
-</expanded>
-<columnWidths org.eclipse.ui.ide.locationField="64" org.eclipse.ui.ide.markerType="94" org.eclipse.ui.ide.pathField="124" org.eclipse.ui.ide.resourceField="94" org.eclipse.ui.ide.severityAndDescriptionField="300"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.severityAndDescriptionField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.resourceField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.pathField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.locationField"/>
-<visible IMemento.internal.id="org.eclipse.ui.ide.markerType"/>
-</viewState>
-</view>
-<view id="com.ibm.etools.common.migration.view.MigrationValidationResultsView" partName="Migration Results">
-<<<<<<< HEAD
-=======
-<viewState/>
-</view>
-<view id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" partName="Layers">
->>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
-<viewState/>
-</view>
-<view id="org.eclipse.ui.console.ConsoleView" partName="Console">
-<viewState/>
-</view>
 <view id="com.ibm.xtools.mde.guidance" partName="MDD Guidance"/>
 <view id="com.ibm.ccl.erf.ui.views.reportexplorer" partName="Report Explorer"/>
 </views>
-<<<<<<< HEAD
-<perspectives activePart="org.eclipse.ui.navigator.ProjectExplorer" activePerspective="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective">
-=======
-<perspectives activePart="SequenceDiagramEditorWithHeader" activePerspective="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective">
->>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
+<perspectives activePart="ModelerDiagramEditor" activePerspective="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective">
 <perspective editorAreaTrimState="2" editorAreaVisible="1" fixed="0" version="0.016">
 <descriptor class="com.ibm.xtools.rmp.ui.internal.perspective.ModelingPerspective" id="com.ibm.xtools.modeler.internal.ui.perspectives.ModelingPerspective" label="Modeling"/>
 <alwaysOnActionSet id="com.ibm.rational.welcome.core.helpSearchActionSet"/>
@@ -153,32 +121,14 @@
 <hide_toolbar_item_id id="org.eclipse.jdt.ui.actions.OpenProjectWizard"/>
 <hide_toolbar_item_id id="org.eclipse.ui.edit.text.toggleShowSelectedElementOnly"/>
 <view id="org.eclipse.ui.navigator.ProjectExplorer"/>
+<view id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView"/>
+<view id="org.eclipse.ui.views.ContentOutline"/>
+<view id="org.eclipse.ui.views.PropertySheet"/>
 <fastViews>
 <view id="com.ibm.ccl.erf.ui.views.reportexplorer" ratio="0.25"/>
 <view id="com.ibm.xtools.mde.guidance" ratio="0.3"/>
 </fastViews>
-<fastViewBars>
-<fastViewBar fastViewLocation="1024" id="underEditorArea" orientation="256" selectedTabId="org.eclipse.ui.views.ProblemView" style="0">
-<fastViews>
-<view id="org.eclipse.ui.views.PropertySheet" ratio="0.3"/>
-<view id="com.ibm.etools.common.migration.view.MigrationValidationResultsView" ratio="0.3"/>
-<view id="org.eclipse.ui.console.ConsoleView" ratio="0.70255476"/>
-<view id="org.eclipse.ui.views.ProblemView" ratio="0.2980456"/>
-</fastViews>
-</fastViewBar>
-<fastViewBar fastViewLocation="16384" id="underProjectExplorerArea" orientation="512" selectedTabId="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" style="0">
-<fastViews>
-<view id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" ratio="0.3"/>
-<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
-</fastViews>
-</fastViewBar>
-<fastViewBar fastViewLocation="16384" id="underProjectExplorerArea" orientation="512" selectedTabId="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" style="0">
-<fastViews>
-<view id="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" ratio="0.3"/>
-<view id="org.eclipse.ui.views.ContentOutline" ratio="0.3"/>
-</fastViews>
-</fastViewBar>
-</fastViewBars>
+<fastViewBars/>
 <layout>
 <mainWindow>
 <info folder="true" part="projectExplorerArea">
@@ -194,35 +144,26 @@
 <page content="org.eclipse.help.ui.HelpView" label="LabelNotFound"/>
 <page content="org.eclipse.ui.internal.introview" label="LabelNotFound"/>
 <page content="org.eclipse.ui.cheatsheets.views.CheatSheetView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
 </folder>
 </info>
-<info part="org.eclipse.ui.editorss" ratio="0.31572628" ratioLeft="263" ratioRight="570" relationship="2" relative="projectExplorerArea"/>
-<info folder="true" part="underEditorArea" ratio="0.5500849" ratioLeft="324" ratioRight="265" relationship="4" relative="org.eclipse.ui.editorss">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.ui.views.PropertySheet" label="LabelNotFound"/>
-<page content="com.ibm.etools.common.migration.view.MigrationValidationResultsView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ProblemView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.console.ConsoleView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
-</folder>
-</info>
-<info folder="true" part="org.eclipse.ui.internal.ViewStack@263a263a" ratio="0.4991274" ratioLeft="286" ratioRight="287" relationship="2" relative="org.eclipse.ui.editorss">
-<folder appearance="2" expanded="2">
-<page content="org.eclipse.pde.runtime.LogView" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<info part="org.eclipse.ui.editorss" ratio="0.26" ratioLeft="260" ratioRight="740" relationship="2" relative="projectExplorerArea"/>
+<info folder="true" part="underEditorArea" ratio="0.6594427" ratioLeft="426" ratioRight="220" relationship="4" relative="org.eclipse.ui.editorss">
+<folder activePageID="org.eclipse.ui.views.PropertySheet" appearance="2" expanded="2">
+<page content="org.eclipse.ui.views.PropertySheet" label="Properties"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+</presentation>
 </folder>
 </info>
 <info folder="true" part="underProjectExplorerArea" ratio="0.6594427" ratioLeft="426" ratioRight="220" relationship="4" relative="projectExplorerArea">
-<<<<<<< HEAD
-<folder appearance="2" expanded="2">
-=======
-<folder appearance="2" expanded="0">
->>>>>>> 1fb3d42bfc888282a26d71a68b1734cbc4592393
-<page content="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" label="LabelNotFound"/>
-<page content="org.eclipse.ui.views.ContentOutline" label="LabelNotFound"/>
+<folder activePageID="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" appearance="2" expanded="2">
+<page content="com.ibm.xtools.rmp.ui.diagram.layers.LayersView" label="Layers"/>
+<page content="org.eclipse.ui.views.ContentOutline" label="Outline"/>
 <page content="com.ibm.xtools.modeler.ui.internal.ui.views.InheritanceExplorer" label="LabelNotFound"/>
-<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory"/>
+<presentation id="org.eclipse.ui.presentations.WorkbenchPresentationFactory">
+<part id="0"/>
+<part id="1"/>
+</presentation>
 </folder>
 </info>
 </mainWindow>
@@ -236,9 +177,6 @@
 <workbenchWindowAdvisor/>
 <actionBarAdvisor/>
 <trimLayout>
-<trimArea IMemento.internal.id="16384">
-<trimItem IMemento.internal.id="underProjectExplorerArea"/>
-</trimArea>
 <trimArea IMemento.internal.id="128">
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.WorkbenchWindow.topBar"/>
 </trimArea>
@@ -246,9 +184,18 @@
 <trimItem IMemento.internal.id="org.eclise.ui.internal.FastViewBar"/>
 <trimItem IMemento.internal.id="org.eclipse.jface.action.StatusLineManager"/>
 <trimItem IMemento.internal.id="org.eclipse.ui.internal.progress.ProgressRegion"/>
-<trimItem IMemento.internal.id="underEditorArea"/>
 </trimArea>
 </trimLayout>
 </window>
-<mruList/>
+<mruList>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ibm.xtools.transform.ui.transformationConfigurationEditor" name="astropedia_java.tc" tooltip="Karolis Ušaniov/astropedia_java.tc">
+<persistable path="/Karolis Ušaniov/astropedia_java.tc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ibm.xtools.transform.ui.transformationConfigurationEditor" name="astropedia.java.tc" tooltip="Karolis Ušaniov/astropedia.java.tc">
+<persistable path="/Karolis Ušaniov/astropedia.java.tc"/>
+</file>
+<file factoryID="org.eclipse.ui.part.FileEditorInputFactory" id="com.ibm.xtools.modeler.ui.editors.internal.ModelEditor" name="Implementation model.emx" tooltip="Karolis Ušaniov/Implementation model.emx">
+<persistable path="/Karolis Ušaniov/Implementation model.emx"/>
+</file>
+</mruList>
 </workbench>

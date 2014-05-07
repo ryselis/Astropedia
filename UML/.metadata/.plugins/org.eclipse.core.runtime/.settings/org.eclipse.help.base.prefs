@@ -1,8 +1,11 @@
-#Thu Feb 20 11:22:00 EET 2014
+#Sat Apr 05 22:11:31 EEST 2014
+workingSet=
+remoteHelpICEnabled=true,false
+remoteHelpOn=true
+remoteHelpHost=publib.boulder.ibm.com,127.0.0.1
 remoteHelpPath=/infocenter/rsahelp/v8,/help
+remoteHelpName=Rational Software Architect,Local
+remoteHelpPort=80,63650
 remoteHelpPreferred=true
 eclipse.preferences.version=1
-remoteHelpPort=80,63650
-remoteHelpName=Rational Software Architect,Local
-remoteHelpICEnabled=true,false
-remoteHelpHost=publib.boulder.ibm.com,127.0.0.1
+scope=

@@ -40,6 +40,7 @@ INSTALLED_APPS = (
     'cosmic_objects',
     'drawing',
     'user_management',
+    'picklexml'
 )
 
 MIDDLEWARE_CLASSES = (

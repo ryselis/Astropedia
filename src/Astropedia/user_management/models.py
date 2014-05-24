@@ -17,6 +17,3 @@ class UserSubmittedInfo(models.Model):
 	status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True)
 	date = models.DateTimeField(u'Prašymo data', default=timezone.now)
 	user = models.ForeignKey('User', verbose_name=u'Vartotojas')
-
-	class Ch
-

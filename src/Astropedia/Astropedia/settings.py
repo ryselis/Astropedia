@@ -57,8 +57,12 @@ WSGI_APPLICATION = 'Astropedia.wsgi.application'
 
 DATABASES = {
     'default': {
-        'ENGINE': 'django.db.backends.sqlite3',
-        'NAME': os.path.join(BASE_DIR, 'db.sqlite3'),
+        'ENGINE': 'django.db.backends.mysql', 
+        'NAME': 'karrys',
+        'USER': 'karrys',
+        'PASSWORD': 'aeWaupho9re0ew1u',
+        'HOST': 'stud.if.ktu.lt',   # Or an IP Address that your DB is hosted on
+        #'PORT': '3306',
     }
 }
 

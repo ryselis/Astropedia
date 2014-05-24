@@ -39,7 +39,7 @@ INSTALLED_APPS = (
     'south',
     'cosmic_objects',
     'drawing',
-    'user_management'
+    'user_management',
 )
 
 MIDDLEWARE_CLASSES = (

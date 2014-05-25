@@ -11,7 +11,7 @@ from django.http.response import HttpResponseRedirect, HttpResponse
 from django.utils.encoding import force_text
 from django.utils.translation import ungettext, ugettext as _
 from django.forms.widgets import RadioSelect, Select
-from PSI_projektas.contrib.widgets import ListWidget
+from contrib.widgets import ListWidget
 
 class ActionForm(forms.Form):
     action = forms.ChoiceField(label=_('Action:'),widget=RadioSelect())
@@ -134,7 +134,6 @@ class CustomModelAdmin(ModelAdmin):
         elif cl.list_editable:
             FormSet = self.get_changelist_formset(request)
             formset = cl.formset = FormSet(queryset=cl.result_list)
-
         # Build the list of media to be used by the formset.
         if formset:
             media = self.media + formset.media

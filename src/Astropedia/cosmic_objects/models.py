@@ -60,6 +60,9 @@ class Star(AstronomicalObject):
     visible_magnitude_amplitude = FloatField(u'Regimojo ryškio kitimo amplitudė')
     mass = FloatField(u'Masė')
 
+    def get_submission_status(self):
+        return self.user_submission.status
+
     
 class Galaxy(AstronomicalObject):
     image = FileField(u'Paveikslėlis', upload_to='images')

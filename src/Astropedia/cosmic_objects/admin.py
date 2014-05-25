@@ -32,8 +32,8 @@ class AstronomicalObjectAdmin(CustomModelAdmin):
 
 class StarAdmin(AstronomicalObjectAdmin):
     actions = [sync]
-    list_filter = ['constellation']
-    list_display = ['name', 'constellation', 'visible_magnitude', 'absolute_magnitude', 'user_submission__status']
+    list_filter = ['constellation',  'user_submission__status']
+    list_display = ['name', 'constellation', 'visible_magnitude', 'absolute_magnitude', 'get_submission_status']
 
 
 admin.site.register(Constellation, CustomModelAdmin)

@@ -5,16 +5,31 @@ from django.db.models.fields.related import ForeignKey
 from django.contrib.auth import models as auth_models
 
 # Create your models here.
+
+
 class ScientistsAsks(models.Model):
+    STATE_UNCONFIRMED = '0'
+    STATE_CONFIRMED = '1'
+    STATE_REJECTED = '2'
+    STATUS_CHOICES = ((STATE_UNCONFIRMED, u'Nepatvirtintas'),
+                      (STATE_CONFIRMED, u'Patvirtintas'),
+                      (STATE_REJECTED, u'Atmestas'))
     date = models.DateTimeField(u'Prašymo data', auto_now_add=True)
-    status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True)
-    user = models.ForeignKey('User', verbose_name=u'Vartotojas')
+    status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True, choices=STATUS_CHOICES)
+    user = models.ForeignKey(auth_models.User, verbose_name=u'Vartotojas')
+
 
 class User(auth_models.User):
-	is_banned =  models.BooleanField(u'Ar uždraustas', default=False)
+    is_banned = models.BooleanField(u'Ar uždraustas', default=False)
+
 
 class UserSubmittedInfo(models.Model):
-	odjecktId = IntegerField(u'Objekto Numeris')
-	status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True)
-	date = models.DateTimeField(u'Prašymo data',auto_now_add=True)
-	user = models.ForeignKey('User', verbose_name=u'Vartotojas')
+    STATUS_PENDING = '0'
+    STATUS_ACCEPTED = '1'
+    STATUS_CHOICES = ((STATUS_PENDING, u'Laukia patvirtinimo'),
+                      (STATUS_ACCEPTED, u'Patvirtintas'))
+    odjecktId = IntegerField(u'Objekto Numeris')
+    status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True)
+    date = models.DateTimeField(u'Prašymo data', auto_now_add=True, choices=STATUS_CHOICES)
+    user = models.ForeignKey(auth_models.User, verbose_name=u'Vartotojas')
+

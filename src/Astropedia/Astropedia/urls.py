@@ -9,6 +9,9 @@ urlpatterns = patterns('',
     # url(r'^blog/', include('blog.urls')),
 
     url(r'^admin/', include(admin.site.urls)),
-    url(r'^admin/', include('drawing.urls')),
+    #url(r'^admin/', include('drawing.urls')),
     url(r'^admin/', include('cosmic_objects.urls')),
+    url(r'^register', 'user_management.views.register'),
+    url(r'^starmap', 'drawing.views.star_map'),
+    url(r'^hr', 'drawing.views.hr'),
 )

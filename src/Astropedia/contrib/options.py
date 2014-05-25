@@ -1,14 +1,16 @@
 from django.contrib.admin import ModelAdmin, helpers
+from django.contrib.admin.util import unquote
 from django.utils.safestring import mark_safe
 from django.contrib.contenttypes.models import ContentType
 from django import template, forms
-from django.shortcuts import render_to_response
+from django.shortcuts import render_to_response, get_object_or_404
 from django.contrib.admin.options import csrf_protect_m,\
     IncorrectLookupParameters
 from django.core.exceptions import PermissionDenied
 from django.template.response import SimpleTemplateResponse, TemplateResponse
 from django.http.response import HttpResponseRedirect, HttpResponse
 from django.utils.encoding import force_text
+from django.utils.text import capfirst
 from django.utils.translation import ungettext, ugettext as _
 from django.forms.widgets import RadioSelect, Select
 from contrib.widgets import ListWidget

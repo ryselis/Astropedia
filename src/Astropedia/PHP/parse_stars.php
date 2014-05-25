@@ -7,7 +7,8 @@ error_reporting(0);
 	preg_match_all('|<li><a href="([^<>"]+)" title="List of stars in\s+([^<>"]+)"|Uis', $all, $m, PREG_SET_ORDER);
 	foreach ($m as $v) {
 		$stars_url[$v[2]] = $v[1];
-	} 
+	}
+	$url = 'http://localhost:8000/admin/cosmic_objects/parse_stars';
 	foreach ($stars_url as $key => $v) {
 		// echo "$v\t\t";
 		$stars_list_html = file_get_contents('http://en.wikipedia.org'.$v);
@@ -32,14 +33,15 @@ error_reporting(0);
 			}
 			$stars_list[] = $t_star;
 			unset($t_star);
-            break;    
+			echo ".";
 
 
 		}
-        break;
+		exec("wget --post-data 'Post=".urlencode(json_encode($stars_list))."' ".$url);
+		$stars_list = array();
 	}
     echo "I work\n 1 ";
-    $url = 'http://localhost:8000/admin/cosmic_objects/parse_stars';
+
 	/*$r = new HttpRequest('http://localhost:8000/admin/cosmic_objects/parse_stars', HttpRequest::METH_POST);
     echo "I work\n 2 ";
 	//$r->setOptions(array('cookies' => array('lang' => 'de')));
@@ -51,6 +53,6 @@ error_reporting(0);
 	} catch (HttpException $ex) {
 	    echo $ex;
 	}*/
-	echo exec("wget --post-data 'Post=".json_encode($stars_list)."' ".$url);
+
     echo "end of file\n";
 ?>

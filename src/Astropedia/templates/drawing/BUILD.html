@@ -1,6 +1,6 @@
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html xmlns="http://www.w3.org/1999/xhtml">
-	<head>
+{% extends "base.html" %}
+{% load i18n %}
+{% block extrahead %}
 		<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 		<title>Unity Web Player | Astropedia</title>
 		<script type='text/javascript' src='jquery.min.js'></script>
@@ -60,6 +60,8 @@
 			});
 		-->
 		</script>
+		{% endblock %}
+		{% block extrastyle %}
 		<style type="text/css">
 		<!--
 		body {
@@ -114,8 +116,9 @@
 		}
 		-->
 		</style>
-	</head>
-	<body>
+{% endblock %}
+{% block content %}
+    <body>
 		<p class="header"><span>Unity Web Player | </span>Astropedia</p>
 		<div class="content">
 			<div id="unityPlayer">
@@ -132,5 +135,5 @@
 			</div>
 		</div>
 		<p class="footer">&laquo; created with <a href="http://unity3d.com/unity/" title="Go to unity3d.com">Unity</a> &raquo;</p>
-	</body>
-</html>
+		</body>
+{% endblock %}

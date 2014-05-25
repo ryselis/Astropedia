@@ -1,3 +1,4 @@
+
 <?php
 error_reporting(0);
 	$list = "http://en.wikipedia.org/wiki/List_of_stars_by_constellation";
@@ -8,7 +9,7 @@ error_reporting(0);
 		$stars_url[$v[2]] = $v[1];
 	} 
 	foreach ($stars_url as $key => $v) {
-		// echo "$v\t\n";
+		// echo "$v\t\t";
 		$stars_list_html = file_get_contents('http://en.wikipedia.org'.$v);
 		preg_match('|<table class="wikitable sortable">(.*)</table|Uis', $stars_list_html, $M);
 		preg_match_all('|<th>(<a[^<>]*title=")?([^<>"]+)["<]+|Uis', $M[1], $H);
@@ -34,8 +35,15 @@ error_reporting(0);
 
 
 		}
-		// echo count($stars_list)."\n\n";
 	}
-	// print_r($stars_list);
-	echo count($stars_list)."\n\n"
+
+
+	$r = new HttpRequest('http://localhost:8000/admin/cosmic_objects/parse_stars', HttpRequest::METH_POST);
+	$r->setOptions(array('cookies' => array('lang' => 'de')));
+	$r->addPostFields(array('Post' => json_encode($stars_list)));
+	try {
+	    echo $r->send()->getBody();
+	} catch (HttpException $ex) {
+	    echo $ex;
+	}
 ?>

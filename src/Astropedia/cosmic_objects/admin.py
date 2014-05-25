@@ -7,8 +7,8 @@ import os
 
 # Register your models here.
 
-def sync(request, queryset, modeladmin):
-    os.system("php " + os.path.dirname(os.path.realpath(__file__)) + "../PHP/parse_stars.php")
+def sync(modeladmin, request, queryset):
+    print os.popen("php " + os.path.dirname(os.path.realpath(__file__)) + "/../PHP/parse_stars.php").read()
     return HttpResponseRedirect(request.META['HTTP_REFERER'])
 
 class StarAdmin(CustomModelAdmin):

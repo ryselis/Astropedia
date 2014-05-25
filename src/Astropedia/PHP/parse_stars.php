@@ -32,18 +32,25 @@ error_reporting(0);
 			}
 			$stars_list[] = $t_star;
 			unset($t_star);
+            break;    
 
 
 		}
+        break;
 	}
-
-
-	$r = new HttpRequest('http://localhost:8000/admin/cosmic_objects/parse_stars', HttpRequest::METH_POST);
-	$r->setOptions(array('cookies' => array('lang' => 'de')));
+    echo "I work\n 1 ";
+    $url = 'http://localhost:8000/admin/cosmic_objects/parse_stars';
+	/*$r = new HttpRequest('http://localhost:8000/admin/cosmic_objects/parse_stars', HttpRequest::METH_POST);
+    echo "I work\n 2 ";
+	//$r->setOptions(array('cookies' => array('lang' => 'de')));
 	$r->addPostFields(array('Post' => json_encode($stars_list)));
+	echo "I work\n";
 	try {
-	    echo $r->send()->getBody();
+	    echo $r->send();
+        echo "No exception\n";
 	} catch (HttpException $ex) {
 	    echo $ex;
-	}
+	}*/
+	echo exec("wget --post-data 'Post=".json_encode($stars_list)."' ".$url);
+    echo "end of file\n";
 ?>

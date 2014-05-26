@@ -34,11 +34,12 @@ class AstronomicalObject(models.Model):
 
     class Meta:
         ordering = ['visible_magnitude']
+        verbose_name = u'Astronominis objektas'
+        verbose_name_plural = u'Astronominiai objektai'
 
     def __unicode__(self):
         return self.name
 
-    
 class ConstellationBound(models.Model):
     start_rectascence = FloatField(u'Pradžios rekstascencija')
     end_rectascence = FloatField(u'Pabaigos rekstascencija')
@@ -49,6 +50,9 @@ class ConstellationBound(models.Model):
     def __unicode__(self):
         return u"Rėžis " + self.constellation.name
 
+    class Meta:
+        verbose_name = u'Žvaigždyno rėžis'
+        verbose_name_plural = u'Žvaigždyno rėžiai'
     
 class NebulaType(models.Model):
     name = CharField(u'Pavadinimas', max_length=32)
@@ -58,6 +62,10 @@ class NebulaType(models.Model):
         return self.name
 
 
+    class Meta:
+        verbose_name = u'Ūko tipas'
+        verbose_name_plural = u'Ūko tipai'
+    
 class Star(AstronomicalObject):
     absolute_magnitude = FloatField(u'Absoliutinis ryškis')
     spectral_class = CharField(u'Spektrinė klasė', max_length=10)
@@ -70,19 +78,28 @@ class Star(AstronomicalObject):
             return self.user_submission.get_status_display()
         return u''
 
+    class Meta:
+        verbose_name = u'Žvaigždė'
+        verbose_name_plural = u'Žvaigždės'
     
 class Galaxy(AstronomicalObject):
     image = FileField(u'Paveikslėlis', upload_to='images', null=True, blank=True)
     galaxy_type = CharField(u'Galaktikos tipas', max_length=16)
     diameter = FloatField(u'Skersmuo')
 
+    class Meta:
+        verbose_name = u'Galaktika'
+        verbose_name_plural = u'Galaktikos'
     
 class Nebula(AstronomicalObject):
     image = FileField(u'Paveikslėlis', upload_to='images',null=True, blank=True)
     nebula_type = ForeignKey('NebulaType', verbose_name=u'Ūko tipas',
                              )
 
-     
+    class Meta:
+        verbose_name = u'Ūkas'
+        verbose_name_plural = u'Ūkai'
+
 class Planet(models.Model):
     star = ForeignKey('Star', verbose_name=u'Žvaigždė')
     name = CharField(u'Pavadinimas', max_length=32)
@@ -93,3 +110,7 @@ class Planet(models.Model):
 
     def __unicode__(self):
         return unicode(self.star) + ":" + self.name
+
+    class Meta:
+        verbose_name = u'Planeta'
+        verbose_name_plural = u'Planetos'

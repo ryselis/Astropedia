@@ -11,4 +11,4 @@ def star_map(request):
 
 @csrf_exempt
 def hr(request):
-    return render_to_response('drawing/hr.html')
+    return star_map(request)

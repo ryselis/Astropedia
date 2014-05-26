@@ -77,6 +77,7 @@ class Star(AstronomicalObject):
         if self.user_submission:
             return self.user_submission.get_status_display()
         return u''
+    get_submission_status.short_description = u'Patvirtinimo būsena'
 
     class Meta:
         verbose_name = u'Žvaigždė'

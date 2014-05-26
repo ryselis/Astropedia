@@ -29,7 +29,7 @@ class UserSubmittedInfo(models.Model):
     STATUS_CHOICES = ((STATUS_PENDING, u'Laukia patvirtinimo'),
                       (STATUS_ACCEPTED, u'Patvirtintas'))
     odjecktId = IntegerField(u'Objekto Numeris')
-    status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True)
-    date = models.DateTimeField(u'Prašymo data', auto_now_add=True, choices=STATUS_CHOICES)
+    status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True, choices=STATUS_CHOICES)
+    date = models.DateTimeField(u'Prašymo data', auto_now_add=True)
     user = models.ForeignKey(auth_models.User, verbose_name=u'Vartotojas')
 

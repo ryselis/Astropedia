@@ -15,7 +15,8 @@ class Constellation(models.Model):
 
     def __unicode__(self):
         return self.name
-    
+
+
 class AstronomicalObject(models.Model):
     TYPE_STAR = '0'
     constellation = ForeignKey(u'Constellation', verbose_name='Žvaigždynas')
@@ -24,8 +25,8 @@ class AstronomicalObject(models.Model):
     distance = FloatField(u'Atstumas')
     visible_magnitude = FloatField(u'Regimasis ryškis')
     name = CharField(u'Pavadinimas', max_length=32, null=False, blank=True)
-    type = CharField(u'Tipas', max_length=32)
-    user_submission = ForeignKey(UserSubmittedInfo, verbose_name=u'Vartotojo pateikta info', null=True)
+    type = CharField(u'Tipas', max_length=32, editable=False)
+    user_submission = ForeignKey(UserSubmittedInfo, verbose_name=u'Vartotojo pateikta info', null=True, editable=False)
 
     class Meta:
         ordering = ['visible_magnitude']
@@ -61,7 +62,9 @@ class Star(AstronomicalObject):
     mass = FloatField(u'Masė')
 
     def get_submission_status(self):
-        return self.user_submission.status
+        if self.user_submission:
+            return self.user_submission.get_status_display()
+        return u''
 
     
 class Galaxy(AstronomicalObject):

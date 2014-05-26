@@ -26,7 +26,7 @@
       <file leaf-file-name="BUILD.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/drawing/BUILD.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="14" column="39" selection-start="588" selection-end="588" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="2610">
+            <state line="14" column="39" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="2610">
               <folding />
             </state>
           </provider>
@@ -35,16 +35,49 @@
       <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cosmic_objects/admin.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="35" column="110" selection-start="1568" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
+            <state line="18" column="34" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1044">
+              <folding>
+                <marker date="1401104746173" expanded="false" signature="0:285" placeholder="import ..." />
+                <marker date="1401104746173" expanded="true" signature="568:1045" placeholder="..." />
+                <marker date="1401104746173" expanded="true" signature="1096:1917" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/drawing/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="models.py" pinned="false" current="true" current-in-tab="true">
+      <file leaf-file-name="admin.py" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/user_management/admin.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="89" column="51" selection-start="3287" selection-end="3287" vertical-scroll-proportion="0.7520092" vertical-offset="947" max-vertical-offset="1818">
+              <folding>
+                <element signature="e#24#66#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/cosmic_objects/models.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="63" column="42" selection-start="2302" selection-end="2302" vertical-scroll-proportion="0.793341" vertical-offset="389" max-vertical-offset="1584">
+            <state line="64" column="32" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1638">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="models.py" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/user_management/models.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="17" column="111" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
               <folding />
             </state>
           </provider>
@@ -53,7 +86,7 @@
       <file leaf-file-name="hr.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/drawing/hr.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="5" column="2" selection-start="32" selection-end="32" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="234">
+            <state line="5" column="2" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
               <folding />
             </state>
           </provider>
@@ -62,7 +95,7 @@
       <file leaf-file-name="change_list.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/admin/change_list.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="1872">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1872">
               <folding />
             </state>
           </provider>
@@ -71,37 +104,8 @@
       <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/templates/admin/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="64" column="69" selection-start="2174" selection-end="2174" vertical-scroll-proportion="-19.25926" vertical-offset="632" max-vertical-offset="1944">
+            <state line="64" column="69" selection-start="2174" selection-end="2174" vertical-scroll-proportion="0.0" vertical-offset="632" max-vertical-offset="1944">
               <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/cosmic_objects/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="55" column="43" selection-start="2467" selection-end="2467" vertical-scroll-proportion="0.0" vertical-offset="641" max-vertical-offset="1512">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="admin.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drawing/admin.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="views.py" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/drawing/views.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="13" column="48" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
-              <folding>
-                <marker date="1401056450028" expanded="true" signature="165:217" placeholder="..." />
-              </folding>
             </state>
           </provider>
         </entry>
@@ -130,24 +134,24 @@
         <option value="$PROJECT_DIR$/user_management/forms.py" />
         <option value="$PROJECT_DIR$/templates/registration/registration_form.html" />
         <option value="$PROJECT_DIR$/contrib/options.py" />
-        <option value="$PROJECT_DIR$/user_management/admin.py" />
         <option value="$PROJECT_DIR$/templates/admin/index.html" />
         <option value="$PROJECT_DIR$/templates/drawing/BUILD.html" />
         <option value="$PROJECT_DIR$/templates/drawing/hr.html" />
         <option value="$PROJECT_DIR$/Astropedia/urls.py" />
         <option value="$PROJECT_DIR$/drawing/views.py" />
-        <option value="$PROJECT_DIR$/user_management/models.py" />
         <option value="$PROJECT_DIR$/user_management/views.py" />
-        <option value="$PROJECT_DIR$/cosmic_objects/admin.py" />
         <option value="$PROJECT_DIR$/cosmic_objects/models.py" />
+        <option value="$PROJECT_DIR$/user_management/models.py" />
+        <option value="$PROJECT_DIR$/cosmic_objects/admin.py" />
+        <option value="$PROJECT_DIR$/user_management/admin.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
     <option name="x" value="65" />
-    <option name="y" value="18" />
+    <option name="y" value="46" />
     <option name="width" value="2495" />
-    <option name="height" value="1444" />
+    <option name="height" value="1416" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -175,6 +179,7 @@
       <sortByType />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <PATH>
@@ -333,7 +338,6 @@
           </PATH>
         </subPane>
       </pane>
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -344,6 +348,7 @@
     <property name="options.searchVisible" value="true" />
     <property name="LayoutCode.rearrangeEntriesPython" value="false" />
     <property name="LayoutCode.rearrangeEntriesHTML" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="PyConsoleOptionsProvider">
     <option name="myPythonConsoleState">
@@ -511,7 +516,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="65" y="18" width="2495" height="1444" extended-state="6" />
+    <frame x="65" y="46" width="2495" height="1416" extended-state="6" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -526,11 +531,11 @@
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.3298585" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
-      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.39985108" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
     </layout>
   </component>
   <component name="Vcs.Log.UiProperties">
@@ -550,17 +555,46 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/drawing/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="162">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing/views.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="13" column="48" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="342">
+          <folding>
+            <marker date="1401056450028" expanded="true" signature="-1:-1" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/drawing/urls.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="180">
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/user_management/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="61" column="26" selection-start="2326" selection-end="2326" vertical-scroll-proportion="0.0" vertical-offset="486" max-vertical-offset="1512">
-          <folding />
+          <folding>
+            <element signature="e#24#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cosmic_objects/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="30" column="49" selection-start="1149" selection-end="1149" vertical-scroll-proportion="0.0" vertical-offset="540" max-vertical-offset="594">
-          <folding />
+          <folding>
+            <marker date="1401104746173" expanded="false" signature="0:285" placeholder="import ..." />
+            <marker date="1401104746173" expanded="true" signature="568:1045" placeholder="..." />
+            <marker date="1401104746173" expanded="true" signature="1096:1917" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -587,16 +621,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/registration/registration_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="4" column="39" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="288">
-          <folding />
-        </state>
+        <state line="4" column="39" selection-start="102" selection-end="102" vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="288" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="44" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1530">
-          <folding />
-        </state>
+        <state line="41" column="44" selection-start="2029" selection-end="2029" vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="1530" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_management/views.py">
@@ -608,18 +638,12 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Astropedia/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="13" column="53" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="378">
-          <folding />
-        </state>
+        <state line="13" column="53" selection-start="451" selection-end="451" vertical-scroll-proportion="0.0" vertical-offset="234" max-vertical-offset="378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/user_management/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
-          <folding>
-            <marker date="1401042609652" expanded="true" signature="-1:-1" placeholder="import ..." />
-          </folding>
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/admin/index.html">
@@ -632,7 +656,11 @@
     <entry file="file://$PROJECT_DIR$/cosmic_objects/admin.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="12" column="61" selection-start="457" selection-end="457" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="576">
-          <folding />
+          <folding>
+            <marker date="1401104746173" expanded="false" signature="0:285" placeholder="import ..." />
+            <marker date="1401104746173" expanded="true" signature="568:1045" placeholder="..." />
+            <marker date="1401104746173" expanded="true" signature="1096:1917" placeholder="..." />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -721,9 +749,7 @@
     </entry>
     <entry file="file:///usr/local/lib/python2.7/dist-packages/django/shortcuts/__init__.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="4" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2862">
-          <folding />
-        </state>
+        <state line="15" column="4" selection-start="553" selection-end="553" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2862" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/contrib/options.py">
@@ -735,32 +761,17 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/user_management/forms.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
-          <folding>
-            <marker date="1401042609652" expanded="true" signature="-1:-1" placeholder="import ..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user_management/admin.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="50" column="20" selection-start="1922" selection-end="1922" vertical-scroll-proportion="0.0" vertical-offset="216" max-vertical-offset="1422">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="23" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/registration/registration_form.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="0" column="0" selection-start="0" selection-end="41" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="288">
-          <folding />
-        </state>
+        <state line="0" column="0" selection-start="0" selection-end="41" vertical-scroll-proportion="-0.0" vertical-offset="0" max-vertical-offset="288" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/base.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="41" column="44" selection-start="2029" selection-end="2029" vertical-scroll-proportion="-23.333334" vertical-offset="108" max-vertical-offset="1530">
-          <folding />
-        </state>
+        <state line="41" column="44" selection-start="2029" selection-end="2029" vertical-scroll-proportion="-23.333334" vertical-offset="108" max-vertical-offset="1530" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/admin/change_list.html">
@@ -772,7 +783,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/admin/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="64" column="69" selection-start="2174" selection-end="2174" vertical-scroll-proportion="-19.25926" vertical-offset="632" max-vertical-offset="1944">
+        <state line="64" column="69" selection-start="2174" selection-end="2174" vertical-scroll-proportion="0.0" vertical-offset="632" max-vertical-offset="1944">
           <folding />
         </state>
       </provider>
@@ -786,16 +797,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/drawing/hr.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="5" column="2" selection-start="32" selection-end="32" vertical-scroll-proportion="-3.3333333" vertical-offset="0" max-vertical-offset="234">
+        <state line="5" column="2" selection-start="32" selection-end="32" vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/Astropedia/urls.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="15" column="13" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378">
-          <folding />
-        </state>
+        <state line="15" column="13" selection-start="517" selection-end="517" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="378" />
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cosmic_objects/views.py">
@@ -809,14 +818,14 @@
       <provider selected="true" editor-type-id="text-editor">
         <state line="13" column="48" selection-start="298" selection-end="298" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="342">
           <folding>
-            <marker date="1401056450028" expanded="true" signature="165:217" placeholder="..." />
+            <marker date="1401056450028" expanded="true" signature="-1:-1" placeholder="..." />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/templates/drawing/BUILD.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="14" column="39" selection-start="588" selection-end="588" vertical-scroll-proportion="-9.333333" vertical-offset="0" max-vertical-offset="2610">
+        <state line="14" column="39" selection-start="588" selection-end="588" vertical-scroll-proportion="0.0" vertical-offset="252" max-vertical-offset="2610">
           <folding />
         </state>
       </provider>
@@ -824,13 +833,6 @@
     <entry file="file:///usr/local/lib/python2.7/dist-packages/django/contrib/admin/options.py">
       <provider selected="true" editor-type-id="text-editor">
         <state line="855" column="8" selection-start="34724" selection-end="34724" vertical-scroll-proportion="0.33295062" vertical-offset="14362" max-vertical-offset="30294">
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/user_management/models.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="22" column="68" selection-start="907" selection-end="907" vertical-scroll-proportion="0.39265212" vertical-offset="0" max-vertical-offset="871">
           <folding />
         </state>
       </provider>
@@ -849,17 +851,44 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/cosmic_objects/admin.py">
+    <entry file="file://$PROJECT_DIR$/drawing/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="35" column="110" selection-start="1568" selection-end="1589" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="792">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="871">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/cosmic_objects/models.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="63" column="42" selection-start="2302" selection-end="2302" vertical-scroll-proportion="0.793341" vertical-offset="389" max-vertical-offset="1584">
+        <state line="64" column="32" selection-start="2321" selection-end="2321" vertical-scroll-proportion="0.0" vertical-offset="443" max-vertical-offset="1638">
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_management/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="17" column="111" selection-start="731" selection-end="731" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="684">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cosmic_objects/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="18" column="34" selection-start="673" selection-end="673" vertical-scroll-proportion="0.0" vertical-offset="162" max-vertical-offset="1044">
+          <folding>
+            <marker date="1401104746173" expanded="false" signature="0:285" placeholder="import ..." />
+            <marker date="1401104746173" expanded="true" signature="568:1045" placeholder="..." />
+            <marker date="1401104746173" expanded="true" signature="1096:1917" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/user_management/admin.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="89" column="51" selection-start="3287" selection-end="3287" vertical-scroll-proportion="0.7520092" vertical-offset="947" max-vertical-offset="1818">
+          <folding>
+            <element signature="e#24#66#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>

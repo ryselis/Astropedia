@@ -17,10 +17,15 @@ class ScientistsAsks(models.Model):
     date = models.DateTimeField(u'Prašymo data', auto_now_add=True)
     status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True, choices=STATUS_CHOICES)
     user = models.ForeignKey(auth_models.User, verbose_name=u'Vartotojas')
-
+    class Meta:
+        verbose_name = u'Prašymas tapti mokslininku'
+        verbose_name_plural = u'Prašymai tapti mokslininku'
 
 class User(auth_models.User):
     is_banned = models.BooleanField(u'Ar uždraustas', default=False)
+    class Meta:
+        verbose_name = u'Vartotojas'
+        verbose_name_plural = u'Vartotojai'
 
 
 class UserSubmittedInfo(models.Model):
@@ -32,4 +37,6 @@ class UserSubmittedInfo(models.Model):
     status = CharField(u'Statusas', max_length=1, null=False, blank=False, unique=True, choices=STATUS_CHOICES)
     date = models.DateTimeField(u'Prašymo data', auto_now_add=True)
     user = models.ForeignKey(auth_models.User, verbose_name=u'Vartotojas')
-
+    class Meta:
+        verbose_name = u'Vartotojo suvesta informacija'
+        verbose_name_plural = u'Vartototojų suvesta informacija'

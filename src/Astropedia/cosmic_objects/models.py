@@ -15,6 +15,10 @@ class Constellation(models.Model):
 
     def __unicode__(self):
         return self.name
+    
+    class Meta:
+        verbose_name = u'Žvaigždynas'
+        verbose_name_plural = u'Žvaigždynai'
 
 
 class AstronomicalObject(models.Model):

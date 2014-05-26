@@ -57,7 +57,7 @@ class NebulaType(models.Model):
     def __unicode__(self):
         return self.name
 
-    
+
 class Star(AstronomicalObject):
     absolute_magnitude = FloatField(u'Absoliutinis ryškis')
     spectral_class = CharField(u'Spektrinė klasė', max_length=10)
@@ -72,14 +72,15 @@ class Star(AstronomicalObject):
 
     
 class Galaxy(AstronomicalObject):
-    image = FileField(u'Paveikslėlis', upload_to='images')
+    image = FileField(u'Paveikslėlis', upload_to='images', null=True, blank=True)
     galaxy_type = CharField(u'Galaktikos tipas', max_length=16)
     diameter = FloatField(u'Skersmuo')
 
     
 class Nebula(AstronomicalObject):
-    image = FileField(u'Paveikslėlis', upload_to='images')
-    nebula_type = ForeignKey('NebulaType', verbose_name=u'Ūko tipas')
+    image = FileField(u'Paveikslėlis', upload_to='images',null=True, blank=True)
+    nebula_type = ForeignKey('NebulaType', verbose_name=u'Ūko tipas',
+                             )
 
      
 class Planet(models.Model):
@@ -87,7 +88,8 @@ class Planet(models.Model):
     name = CharField(u'Pavadinimas', max_length=32)
     distance = FloatField(u'Atstumas iki žvaigždės')
     mass = FloatField(u'Masė')
-    user_submission = ForeignKey(UserSubmittedInfo, verbose_name=u'Vartotojo pateikta info', null=True)
+    user_submission = ForeignKey(UserSubmittedInfo, verbose_name=u'Vartotojo pateikta info', null=True,
+                                 editable=False)
 
     def __unicode__(self):
         return unicode(self.star) + ":" + self.name

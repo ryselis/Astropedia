@@ -1,7 +1,7 @@
 from django.contrib import admin, messages
 from django.contrib.admin.views.main import ChangeList
 from contrib.options import CustomModelAdmin
-from django.contrib.admin.options import ModelAdmin
+from django.contrib.admin.options import ModelAdmin, StackedInline
 from cosmic_objects.models import *
 from django.http import HttpResponseRedirect
 import os
@@ -44,10 +44,16 @@ class AstronomicalObjectAdmin(CustomModelAdmin):
     actions = [confirm]
 
 
+class PlanetInlineForm(StackedInline):
+    model = Planet
+
+
 class StarAdmin(AstronomicalObjectAdmin):
     actions = AstronomicalObjectAdmin.actions + [sync]
     list_filter = ['constellation',  'user_submission__status']
     list_display = ['name', 'constellation', 'visible_magnitude', 'absolute_magnitude', 'get_submission_status']
+    inlines = [PlanetInlineForm]
+    
 
 
 admin.site.register(Constellation, CustomModelAdmin)
@@ -56,4 +62,3 @@ admin.site.register(NebulaType, CustomModelAdmin)
 admin.site.register(Star, StarAdmin)
 admin.site.register(Galaxy, AstronomicalObjectAdmin)
 admin.site.register(Nebula, AstronomicalObjectAdmin)
-admin.site.register(Planet, CustomModelAdmin)
